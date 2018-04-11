@@ -1,0 +1,1 @@
+是否可以将 VMware vCenter 服务器备份到 Azure？\n\n是的。 可以使用 Azure 备份服务器将 VMware vCenter 和 ESXi 备份到 Azure。 若要了解支持的 VMware 版本，请参阅 [Azure 备份服务器保护矩阵](https://docs.azure.cn/backup/backup-mabs-protection-matrix)一文。 有关分步说明，请参阅[使用 Azure 备份服务器备份 VMware 服务器](https://docs.azure.cn/backup/backup-azure-backup-server-vmware)。\n\n## Azure 备份服务器和 System Center Data Protection Manager\n\n

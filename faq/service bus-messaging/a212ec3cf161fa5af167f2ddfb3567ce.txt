@@ -1,0 +1,1 @@
+创建实体前的须知事项有哪些？\n\n队列和主题的以下属性是固定不变的。 预配实体时，请考虑此限制，因为必须创建新的替代实体才可修改这些属性。\n\n*   \n\n大小\n\n*   \n\n分区\n\n*   \n\n会话\n\n*   \n\n重复检测\n\n*   \n\n快速实体\n\n##  定价\n\n本部分回答了一些关于服务总线定价结构的常见问题。\n\n[服务总线定价和计费](https://docs.azure.cn/service-bus-messaging/service-bus-pricing-billing)一文介绍了服务总线中的计费计量。有关服务总线定价选项的具体信息，请参阅[服务总线定价详细信息](https://www.azure.cn/pricing/details/messaging/)\n

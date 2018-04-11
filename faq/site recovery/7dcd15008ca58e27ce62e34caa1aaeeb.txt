@@ -1,0 +1,1 @@
+我能否复制 Azure VM？可以，用户可在 Azure 区域间复制受支持的 Azure VM。

@@ -1,0 +1,1 @@
+如何在 DocumentDB API 中执行事务？DocumentDB API 支持通过 JavaScript 存储过程和触发器进行的语言集成式事务。 脚本中的所有数据库操作都是在进行快照隔离的情况下执行的。 如果是单分区集合，则执行范围为集合。 如果集合已分区，则执行范围为该集合中具有相同分区键值的文档。 文档版本 (ETag) 的快照是在事务开始时获取的，且只有当脚本成功运行时才会提交。 如果 JavaScript 引发错误，则会回滚事务。 有关详细信息，请参阅 [Azure Cosmos DB 的服务器端 JavaScript 编程](https://docs.azure.cn/cosmos-db/programming)

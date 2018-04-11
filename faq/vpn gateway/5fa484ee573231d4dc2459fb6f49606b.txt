@@ -1,0 +1,1 @@
+Azure 会对 VNet 之间的流量收费吗？当使用 VPN 网关连接时，同一区域中的 VNet 到 VNet 流量双向均免费。 跨区域 VNet 到 VNet 出口流量根据源区域的出站 VNet 间数据传输费率收费。 有关详细信息，请参阅 [VPN 网关定价页](https://www.azure.cn/pricing/details/vpn-gateway/)。 如果使用 VNet 对等互连而非 VPN 网关连接 VNet，请参阅[虚拟网络定价页](https://www.azure.cn/pricing/details/virtual-network/)。

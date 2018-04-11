@@ -1,0 +1,1 @@
+资源运行状况是否适用于所有资源类型？如需资源运行状况支持的运行状况检查和资源类型的列表，可单击[此处](https://docs.azure.cn/service-health/resource-health-checks-resource-types)。

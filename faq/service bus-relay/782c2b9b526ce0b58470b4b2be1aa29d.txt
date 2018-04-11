@@ -1,0 +1,1 @@
+Azure 中继 API 所生成的异常有哪些，可以采用哪些建议操作？有关常见异常以及可以采用的建议操作的说明，请参阅[中继异常](https://docs.azure.cn/service-bus-relay/relay-exceptions)

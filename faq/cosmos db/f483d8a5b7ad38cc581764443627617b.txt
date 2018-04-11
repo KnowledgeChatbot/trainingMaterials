@@ -1,0 +1,1 @@
+新预配的表是否设置了默认的 TableThroughput？是的，如果未通过 app.config 替代 TableThroughput，并且未使用 Azure Cosmos DB 中预先创建的容器，则该服务将创建吞吐量为 400 的表。

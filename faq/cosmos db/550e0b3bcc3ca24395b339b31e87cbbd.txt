@@ -1,0 +1,1 @@
+Azure Cosmos DB 的费用如何？有关详细信息，请参阅 [Azure Cosmos DB 定价详细信息](https://www.azure.cn/pricing/details/cosmos-db/)页。 Azure Cosmos DB 使用费取决于预配的容器数、容器的联机小时数，以及每个容器的预配吞吐量。 在这里，术语"容器"是指 DocumentDB API 集合、MongoDB API 集合以及表 API 表。

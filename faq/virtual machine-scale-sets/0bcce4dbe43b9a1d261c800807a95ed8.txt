@@ -1,0 +1,1 @@
+如何将规模集配置为向每个 VM 分配公共 IP 地址？\n\n若要创建向每个 VM 分配公共 IP 地址的 VM 规模集，请确保 Microsoft.Compute/virtualMAchineScaleSets 资源的 API 版本为 2017-03-30，并将 publicipaddressconfiguration JSON 数据包添加到规模集的 ipConfigurations 节。 示例：\n\n "publicipaddressconfiguration": { "name": "pub1", "properties": { "idleTimeoutInMinutes": 15 } } \n

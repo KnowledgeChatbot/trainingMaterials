@@ -1,0 +1,1 @@
+我没有看到可让用户以 base64 字符串形式传入证书的选项。 其他大多数资源提供程序提供此选项。\n\n若要模拟以 base64 字符串形式传入证书，可以在 Resource Manager 模板中提取最新版本的 URL。 在 Resource Manager 模板中包含以下 JSON 属性：\n\n"certificateUrl": "[reference(resourceId(parameters('vaultResourceGroup'), 'Microsoft.KeyVault/vaults/secrets', parameters('vaultName'), parameters('secretName')), '2015-06-01').secretUriWithVersion]" \n

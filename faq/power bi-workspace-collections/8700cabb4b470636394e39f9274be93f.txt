@@ -1,0 +1,1 @@
+对于该服务，可用的 SLA 是什么？具有 Azure 标准 SLA 的 Power BI 工作区集合。 有关详细信息，请参阅 [服务级别协议](https://www.azure.cn/support/legal/sla/)

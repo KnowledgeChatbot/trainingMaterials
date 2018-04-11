@@ -1,0 +1,1 @@
+如何使用 PowerShell 对虚拟机规模集设置自动缩放？\n\n若要使用 PowerShell 对虚拟机规模集设置自动缩放，请参阅博客文章 [How to add autoscale to an Azure virtual machine scale set](https://msftstack.wordpress.com/2017/03/05/how-to-add-autoscale-to-an-azure-vm-scale-set/)（如何向 Azure 虚拟机规模集添加自动缩放）。\n\n## 证书\n\n

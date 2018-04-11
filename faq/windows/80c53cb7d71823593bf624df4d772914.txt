@@ -1,0 +1,1 @@
+是否存在资源组名称要求？是的。 资源组名称的最大长度为 90 个字符。 有关资源组的详细信息，请参阅[命名约定规则和限制](https://docs.microsoft.com/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions?toc=/virtual-machines/windows/toc.json)

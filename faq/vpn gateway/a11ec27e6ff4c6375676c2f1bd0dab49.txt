@@ -1,0 +1,1 @@
+可以使用哪些工具来创建证书？可以使用企业 PKI 解决方案（内部 PKI）、Azure PowerShell、MakeCert 和 OpenSSL。

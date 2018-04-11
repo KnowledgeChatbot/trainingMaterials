@@ -1,0 +1,1 @@
+可以使用 Site Recovery 来管理分支机构的灾难恢复吗？\n\n是的。 在使用 Site Recovery 来协调分支机构的复制与故障转移时，可在一个中心位置获得所有分支机构工作负荷的统一视图。 不需要前往分支机构，就可以从总部轻松对所有分支机构运行故障转移和管理灾难恢复。\n\n## 定价\n\n定价相关问题，请参阅 [Azure Site Recovery 定价](https://www.azure.cn/pricing/details/site-recovery/)中的常见问题解答。\n\n## "安全"\n\n

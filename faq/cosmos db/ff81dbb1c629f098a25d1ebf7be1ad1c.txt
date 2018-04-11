@@ -1,0 +1,1 @@
+DocumentDB API 是否支持 ACID 事务？是的，DocumentDB API 支持以 JavaScript 存储过程和触发器形式表示的跨文档事务。 事务以每个集合内的单个分区为范围，且以 ACID 语义执行，也就是"全或无"，与其他并发执行代码和用户请求隔离。 如果在服务器端执行 JavaScript 应用程序代码的过程中引发了异常，则会回滚整个事务。 有关事务的详细信息，请参阅[数据库程序事务](https://docs.azure.cn/cosmos-db/programming#database-program-transactions)

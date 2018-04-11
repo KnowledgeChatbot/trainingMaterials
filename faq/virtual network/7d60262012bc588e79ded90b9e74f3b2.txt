@@ -1,0 +1,1 @@
+是否可以在 VNet 之间或者 VNet 与本地数据中心之间执行 WAN 优化？\n\n可以。 可以通过 Azure 应用商店部署许多供应商提供 [WAN 优化网络虚拟设备](https://azure.microsoft.com/marketplace/?term=wan optimization) 。\n\n## 配置\n\n

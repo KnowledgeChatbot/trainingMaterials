@@ -1,0 +1,1 @@
+Azure Site to Site VPN客户本地网络设备的支持列表？请参阅[ Site to Site VPN](http://msdn.microsoft.com/library/azure/jj156075.aspx)信息。

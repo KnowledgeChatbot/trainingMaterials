@@ -1,0 +1,1 @@
+在 Linux VM 上，证书放在哪个位置？若要了解如何部署 Linux VM 的证书，请参阅[将证书从客户管理的 Key Vault 部署到 VM](https://blogs.technet.microsoft.com/kv/2015/07/14/deploy-certificates-to-vms-from-customer-managed-key-vault/)

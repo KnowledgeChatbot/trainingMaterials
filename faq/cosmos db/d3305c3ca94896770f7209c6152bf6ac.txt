@@ -1,0 +1,1 @@
+DocumentDB API 是否支持 SQL 聚合函数？DocumentDB API 支持使用 SQL 语法通过聚合函数 `COUNT`、`MIN`、`MAX`、`AVG` 和 `SUM` 实现的任何规模的低延迟聚合。 有关详细信息，请参阅[聚合函数](https://docs.azure.cn/cosmos-db/documentdb-sql-query#Aggregates)。

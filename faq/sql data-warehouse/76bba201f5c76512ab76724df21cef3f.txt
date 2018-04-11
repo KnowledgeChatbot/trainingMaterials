@@ -1,0 +1,1 @@
+问：连接 Azure 存储 Blob 或 ADLS 时能否进行计算下推？\n\n答：不能，SQL DW PolyBase 仅与存储组件交互。 \n\n问：能否连接到 HDI？\n\n答：HDI 可使用 ADLS 或 WASB 作为 HDFS 层。 如果将两者中任意一种作为 HDFS 层，可以将该数据加载到 SQL DW。 但是，无法生成 HDI 实例的下推计算。 \n\n## 后续步骤\n\n若要深入了解 SQL 数据仓库的概述信息，请参阅[概述](https://docs.azure.cn/sql-data-warehouse/sql-data-warehouse-overview-faq)页。\n

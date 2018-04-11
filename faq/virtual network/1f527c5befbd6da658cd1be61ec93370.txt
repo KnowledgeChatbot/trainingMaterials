@@ -1,0 +1,1 @@
+是否可以将 VM 部署到 VNet？是的。 附加到通过 Resource Manager 部署模型部署的 VM 的所有网络接口 (NIC) 必须连接到 VNet。 可以选择性地将通过经典部署模型部署的 VM 连接到 VNet。

@@ -1,0 +1,1 @@
+如何将虚拟机规模集更新为新映像？ 如何管理修补？若要将虚拟机规模集更新为新映像，或管理修补，请参阅[升级虚拟机规模集](https://docs.azure.cn/zh-cn/virtual-machine-scale-sets/virtual-machine-scale-sets-upgrade-scale-set)

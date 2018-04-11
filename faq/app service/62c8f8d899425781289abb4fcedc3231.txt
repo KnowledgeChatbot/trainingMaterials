@@ -1,0 +1,1 @@
+我刚开始使用应用服务 Web 应用。 如何发布代码？\n\n可通过以下几种方式发布 Web 应用代码：\n\n*   使用 Visual Studio 进行部署。 如果拥有 Visual Studio 解决方案，请右键单击 Web 应用程序项目，然后选择"发布"。\n*   使用 FTP 客户端进行部署。 在 Azure 门户中，下载要向其部署代码的 Web 应用的发布配置文件。 然后，使用相同的发布配置文件 FTP 凭据将文件上传到 \site\wwwroot。\n\n有关详细信息，请参阅[将应用部署到应用服务](https://docs.azure.cn/app-service/app-service-deploy-local-git)\n

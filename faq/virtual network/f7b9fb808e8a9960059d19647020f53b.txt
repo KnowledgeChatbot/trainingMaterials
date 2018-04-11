@@ -1,0 +1,1 @@
+是否可以在 VNet 和子网上指定自定义路由策略？是的。 可以使用用户定义路由 (UDR)。 有关 UDR 的详细信息，请访问[用户定义的路由和 IP 转发](https://docs.azure.cn/virtual-network/virtual-networks-udr-overview)

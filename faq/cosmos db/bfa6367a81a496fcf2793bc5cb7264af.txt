@@ -1,0 +1,1 @@
+可以将 PreferredLocations 设置为哪些区域？可以将 PreferredLocations 值设置为提供 Cosmos DB 的任何 Azure 区域。 有关可用区域的列表，请参阅 [Azure 区域](https://www.azure.cn/support/service-dashboard/)

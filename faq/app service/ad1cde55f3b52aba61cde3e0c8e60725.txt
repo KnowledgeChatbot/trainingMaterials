@@ -1,0 +1,1 @@
+有哪些不同类型的部署凭据？应用服务支持两种类型的凭据，分别适用于本地 GIT 部署和 FTP/S 部署。 有关如何配置部署凭据的详细信息，请参阅[为 Azure 应用服务配置部署凭据](https://docs.azure.cn/app-service/app-service-deployment-credentials)

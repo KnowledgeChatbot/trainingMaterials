@@ -1,0 +1,1 @@
+在我的 VNet 中可以使用哪些地址范围？[RFC 1918](http://tools.ietf.org/html/rfc1918)中定义的任何 IP 地址范围。 例如 10.0.0.0/16。

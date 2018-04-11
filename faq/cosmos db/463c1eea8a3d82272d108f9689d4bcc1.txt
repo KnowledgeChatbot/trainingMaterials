@@ -1,0 +1,1 @@
+如何将文档批量插入到 Document DB 中？\n\n可以通过以下两种方法之一，将文档批量插入到 Azure Cosmos DB 中：\n\n*   数据集成工具，如 [Azure Cosmos DB 的数据迁移工具](https://docs.azure.cn/cosmos-db/import-data)中所述。\n*   存储过程，如 [Azure Cosmos DB 的服务器端 JavaScript 编程](https://docs.azure.cn/cosmos-db/programming)中所述。

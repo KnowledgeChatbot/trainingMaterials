@@ -1,0 +1,1 @@
+能否通过站点到站点 VPN 复制到 Azure？Azure Site Recovery 通过公共终结点将数据复制到 Azure 存储帐户。 复制不是通过站点到站点 VPN 进行。 可以使用 Azure 虚拟网络创建站点到站点 VPN。 这不会干扰 Site Recovery 复制。

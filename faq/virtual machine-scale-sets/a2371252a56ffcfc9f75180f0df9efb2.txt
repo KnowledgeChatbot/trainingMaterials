@@ -1,0 +1,1 @@
+如何更改虚拟机规模集中的 VM 数目？若要更改虚拟机规模集中的 VM 数量，请参阅[更改虚拟机规模集的实例计数](https://msftstack.wordpress.com/2016/05/13/change-the-instance-count-of-an-azure-vm-scale-set/)

@@ -1,0 +1,1 @@
+VPN 隧道如何进行身份验证？Azure VPN 使用 PSK（预共享密钥）身份验证。 我们在创建 VPN 隧道时生成一个预共享密钥 (PSK)。 可以使用设置预共享密钥 PowerShell cmdlet 或 REST API 会自动生成的 PSK 更改成自己的 PSK。

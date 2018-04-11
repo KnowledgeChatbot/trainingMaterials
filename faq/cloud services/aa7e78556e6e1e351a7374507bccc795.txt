@@ -1,0 +1,1 @@
+部署云服务时，有时为何由于订阅或服务上的限制/配额/约束而发生失败？\n\n如果需要分配的资源超过区域/数据中心级别的服务允许的默认或最大配额，部署云服务可能会失败。 有关详细信息，请参阅[云服务限制](https://docs.azure.cn/azure-subscription-service-limits#cloud-services-limits)。\n\n也可以在门户中跟踪订阅的当前用量/配额：Azure 门户 = >"订阅"=>  =>"用量 + 配额"。\n\n

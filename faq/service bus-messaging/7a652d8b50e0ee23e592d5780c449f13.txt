@@ -1,0 +1,1 @@
+服务总线是否对存储收费？\n\n否，服务总线不对存储收费。 但是，对每个队列/主题可以保留的数据最大量设有配额限制。 请参阅下一个常见问题。\n\n## 配额\n\n有关服务总线限制和配额的列表，请参阅[服务总线配额概述](https://docs.azure.cn/service-bus-messaging/service-bus-quotas)\n

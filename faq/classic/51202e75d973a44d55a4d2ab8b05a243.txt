@@ -1,0 +1,1 @@
+是否可以将经典部署模型中创建的 VM 迁移到新的 Resource Manager 模型？\n\n是的。 有关迁移方法的说明，请参阅：\n\n*   [使用 Azure PowerShell 从经典部署迁移到 Azure Resource Manager 部署](https://docs.azure.cn/virtual-machines/windows/migration-classic-resource-manager-ps)。\n*   [使用 Azure CLI 从经典部署迁移到 Azure Resource Manager 部署](https://docs.azure.cn/virtual-machines/virtual-machines-linux-cli-migration-classic-resource-manager)。

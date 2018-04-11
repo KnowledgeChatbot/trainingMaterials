@@ -1,0 +1,1 @@
+RADIUS 身份验证是否同时适用于 IKEv2 和 SSTP VPN？\n\n是的，IKEv2 和 SSTP VPN 都支持 RADIUS 身份验证。 \n\n## 后续步骤\n\n[配置 P2S 连接 - RADIUS 身份验证](https://docs.azure.cn/zh-cn/vpn-gateway/point-to-site-how-to-radius-ps)\n\n[配置 P2S 连接 - Azure 本机证书身份验证](https://docs.azure.cn/zh-cn/vpn-gateway/vpn-gateway-howto-point-to-site-rm-ps)\n

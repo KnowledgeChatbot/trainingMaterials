@@ -1,0 +1,1 @@
+我是否可以使用临时磁盘（默认为 D: 驱动器）存储数据？\n\n不要使用临时磁盘来存储数据。 它只是临时存储空间，因此存在丢失数据且数据不能恢复的风险。 将虚拟机移到另一主机时，可能会发生数据丢失的情况。 调整虚拟机大小、更新主机、主机硬件故障等都是需要移动虚拟机的原因。\n\n如果有应用程序需要使用 D: 驱动器号，可以重新分配驱动器号以便临时磁盘使用除 D: 以外的位置。 有关说明，请参阅[更改 Windows 临时磁盘的驱动器号](https://docs.azure.cn/virtual-machines/windows/change-drive-letter?toc=/virtual-machines/windows/classic/toc.json)\n

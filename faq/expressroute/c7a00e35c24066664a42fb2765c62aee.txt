@@ -1,0 +1,1 @@
+能否将站点到站点连接与 ExpressRoute 一起用于虚拟网络？可以。 ExpressRoute 可以与站点到站点 VPN 共存。

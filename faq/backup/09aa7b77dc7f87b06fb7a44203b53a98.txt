@@ -1,0 +1,1 @@
+Azure VM 备份不支持哪些配置？请参阅[支持的操作系统](https://docs.azure.cn/backup/backup-azure-arm-vms-prepare#supported-operating-system-for-backup)和 [VM 备份限制](https://docs.azure.cn/backup/backup-azure-arm-vms-prepare#limitations-when-backing-up-and-restoring-a-vm)

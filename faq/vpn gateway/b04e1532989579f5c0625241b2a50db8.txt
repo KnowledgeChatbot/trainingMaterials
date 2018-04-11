@@ -1,0 +1,1 @@
+是否可以将 RouteBased VPN 类型的 VNet 连接到另一个 PolicyBased VPN 类型的 VNet？否，两台虚拟网络都必须使用基于路由（以前称为动态路由）的 VPN。

@@ -1,0 +1,1 @@
+关于如何在应用中使用 Power BI 工作区集合是否存在任何规则或限制？Power BI 工作区集合仅用于为供第三方使用而提供的应用程序。 如果想要使用 Power BI 工作区集合服务创建内部业务应用程序，则每个内部用户都需要具有一个 Power BI Pro USL，并且组织除需要支付 Power BI Pro USL 费用外，还需要支付使用 Power BI 工作区集合服务的费用。 为避免产生 Power BI Pro USL 费和 Power BI 工作区集合用于内部应用程序的消耗成本，Power BI 服务在 Power BI 工作区集合外提供了其自己的内容嵌入功能，而未额外增加 Power BI USL 持有者的成本 (dev.powerbi.cn)。

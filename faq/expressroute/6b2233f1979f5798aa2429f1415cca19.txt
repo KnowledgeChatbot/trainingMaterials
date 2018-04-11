@@ -1,0 +1,1 @@
+能否从连接到 ExpressRoute 线路的虚拟网络访问 Internet？是的。 如果尚未通过 BGP 会话公布默认路由 (0.0.0.0/0) 或 Internet 路由前缀，可以从连接到 ExpressRoute 线路的虚拟网络连接到 Internet。

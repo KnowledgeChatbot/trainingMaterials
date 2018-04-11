@@ -1,0 +1,1 @@
+是否可将 API 管理服务从一个订阅移到另一个订阅？\n\n是的。 要了解操作方法，请参阅[将资源移动到新资源组或订阅](https://docs.azure.cn/azure-resource-manager/resource-group-move-resources)。\n\n### 导入 API 是否存在限制或已知问题？\n\n[Open API(Swagger)、WSDL 和 WADL 格式的已知问题和限制](https://docs.azure.cn/api-management/api-management-api-import-restrictions)。\n

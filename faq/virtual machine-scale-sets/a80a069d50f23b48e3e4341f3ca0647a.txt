@@ -1,0 +1,1 @@
+如何才能配置规模集使用的 DNS 服务器？\n\n若要创建具有自定义 DNS 配置的 VM 规模集，请将 dnsSettings JSON 数据包添加到规模集的 networkInterfaceConfigurations 节。 示例：\n\n "dnsSettings":{ "dnsServers":["10.0.0.6", "10.0.0.5"] } \n

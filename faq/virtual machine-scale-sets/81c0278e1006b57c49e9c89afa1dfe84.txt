@@ -1,0 +1,1 @@
+如何在不发出多个调用的情况下获取每个 VM 的属性信息？ 例如，对于虚拟机规模集中的 100 个 VM，如何获取每个 VM 的的容错域？\n\n若要在不发出多个调用的情况下获取每个 VM 的属性信息，通过在以下资源 URI 上执行 REST API `GET`调用 `ListVMInstanceViews`：\n\n/subscriptions//resourceGroups//providers/Microsoft.Compute/virtualMachineScaleSets//virtualMachines?$expand=instanceView&$select=instanceView\n\n

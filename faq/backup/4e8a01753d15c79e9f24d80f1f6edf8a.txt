@@ -1,0 +1,1 @@
+支持哪个版本的 System Center Data Protection Manager？建议在适用于 System Center Data Protection Manager (DPM) 的最新更新汇总版本 (UR) 上安装[最新](http://aka.ms/azurebackup_agent)的 Azure 备份代理。 到 2016 年 8 月为止，更新汇总版本 11 是最新的更新。

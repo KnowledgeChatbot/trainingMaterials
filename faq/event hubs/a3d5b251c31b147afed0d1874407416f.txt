@@ -1,0 +1,1 @@
+Azure 事件中心在哪些区域可用？\n\n在所有支持的 Azure 区域中都可使用 Azure 事件中心。 有关列表，请访问 [Azure 区域](https://www.azure.cn/support/service-dashboard/)页。 \n\n## 最佳实践\n\n

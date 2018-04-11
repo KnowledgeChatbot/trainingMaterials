@@ -1,0 +1,1 @@
+以前是否可以使用各种工具监视节点状态、副本状态、gc 和 OS 参数？ 现在需要监视什么？Azure Cosmos DB 是一个平台服务，可帮助你提高工作效率，而无需担心如何管理和监视基础结构。 你只需要在门户指标中关注可用的吞吐量，以查明你是否受到限制并增大或减小该吞吐量。 监视 [SLA](https://docs.azure.cn/cosmos-db/monitor-accounts)。 使用[指标](https://docs.azure.cn/cosmos-db/use-metrics) 使用[诊断日志](https://docs.azure.cn/cosmos-db/logging)。

@@ -1,0 +1,1 @@
+是否可以从一个虚拟网络连接到多个站点？可以使用 Windows PowerShell 和 Azure REST API 连接到多个站点。 请参阅 [多站点与 VNet 到 VNet 连接](https://docs.azure.cn/vpn-gateway/#V2VMulti) 的"常见问题"部分。

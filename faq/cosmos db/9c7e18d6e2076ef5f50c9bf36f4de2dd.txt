@@ -1,0 +1,1 @@
+DocumentDB API 是否支持资源链接缓存？是的，因为 Azure Cosmos DB 是 RESTful 服务，而资源链接固定不变，所以可以缓存。 DocumentDB API 客户端可以通过指定"If-None-Match"标头来读取任何资源（例如文档或集合），然后在服务器版本更改后更新本地副本。

@@ -1,0 +1,1 @@
+是否可以提供 yaml 文件设置来配置 Azure Cosmos DB 的 Apache Casssandra API 行为？Azure Cosmos DB 的 Apache Cassandra API 是一项平台服务。 它提供协议级的兼容性来执行操作。 它消除了管理、监视和配置的复杂性。 开发人员/用户无需担心可用性、逻辑删除、键缓存、行缓存、布隆筛选器和其他许多设置。 Azure Cosmos DB 的 Apache Cassandra API 注重于提供所需的读取和写入性能，不会产生配置和管理开销。

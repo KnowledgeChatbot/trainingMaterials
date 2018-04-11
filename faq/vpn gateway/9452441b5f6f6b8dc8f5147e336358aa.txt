@@ -1,0 +1,1 @@
+能否将默认路由 (0.0.0.0/0) 播发给 Azure VPN 网关？\n\n是的。\n\n请注意，这样会强制所有的 VNet 出口流量流向本地站点，并且会阻止 VNet VM 接受直接来自 Internet 的公共通信，例如从 Internet 发往 VM 的 RDP 或 SSH。\n

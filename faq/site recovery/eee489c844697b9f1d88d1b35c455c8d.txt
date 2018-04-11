@@ -1,0 +1,1 @@
+在故障转移到 Azure 之后，如何访问 Azure 虚拟机？可以通过安全的 Internet 连接或者站点到站点 VPN 或 Azure ExpressRoute 访问 Azure VM。 在连接之前需要做许多准备。

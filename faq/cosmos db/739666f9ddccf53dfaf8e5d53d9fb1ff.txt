@@ -1,0 +1,1 @@
+启用全局分发后，需要花费多长时间复制数据？Azure Cosmos DB 会在本地区域持续提交数据，然后在几毫秒内将数据立即推送到其他区域。 这种形式的复制只取决于数据中心的往返时间 (RTT)。 若要详细了解 Azure Cosmos DB 的全局分发功能，请参阅 [Azure Cosmos DB：Azure 上的全局分布式数据库服务](https://docs.azure.cn/cosmos-db/distribute-data-globally)

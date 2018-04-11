@@ -1,0 +1,1 @@
+我可以在哪里找到更多定价信息？有关事件中心定价的完整信息，请参阅[事件中心定价详细信息](https://www.azure.cn/pricing/details/event-hubs/)

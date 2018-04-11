@@ -1,0 +1,1 @@
+如何获取 Azure Cosmos DB 的更多帮助？\n\n如需任何帮助，请在 [MSDN and CSDN](https://www.azure.cn/support/contact/)上联系我们，或者通过向 [Azure Support](https://www.azure.cn/support/contact/) 发送邮件安排与 Azure Cosmos DB 工程团队进行一对一交谈。 \n\n## 设置 Azure Cosmos DB\n\n

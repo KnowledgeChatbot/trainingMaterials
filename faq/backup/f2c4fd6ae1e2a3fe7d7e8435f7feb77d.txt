@@ -1,0 +1,1 @@
+我的 VM 已关闭。 按需备份或计划备份会运行吗？是的。 即使计算机已关闭，备份也会运行，恢复点将标记为崩溃一致。 有关更多详细信息，请参阅[此文](https://docs.azure.cn/backup/backup-azure-vms-introduction#how-does-azure-back-up-virtual-machines)中的数据一致性部分

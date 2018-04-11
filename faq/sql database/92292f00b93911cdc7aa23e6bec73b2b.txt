@@ -1,0 +1,1 @@
+如何确保只允许经过授权的 IP 地址访问服务器？请参阅[如何：在 SQL 数据库上配置防火墙设置](https://docs.azure.cn/sql-database/sql-database-configure-firewall-settings)

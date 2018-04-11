@@ -1,0 +1,1 @@
+本团队正在开发几个证书，到时将以 .cer 公钥的形式分发给大家使用。 将这些证书部署到虚拟机规模集的建议方法有哪些？\n\n要将 .cer 公钥部署到虚拟机规模集，可以生成仅包含 .cer 文件的 .pfx 文件。 为此，请使用 `X509ContentType = Pfx`。 例如，将 .cer 文件作为 x509Certificate2 对象加载到 C# 或 PowerShell 中，然后调用该方法。 \n\n有关详细信息，请参阅 [X509Certificate.Export 方法 (X509ContentType, String)](https://msdn.microsoft.com/library/24ww6yzk(v=vs.110.aspx))\n

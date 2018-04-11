@@ -1,0 +1,1 @@
+Apache Cassandra API 是否默认对实体的所有属性编制索引？是，默认情况下 Azure Cosmos DB 会对实体的所有属性进行索引。 有关详细信息，请参阅 [Azure Cosmos DB：索引策略](https://docs.azure.cn/cosmos-db/indexing-policies)。 这样始终可以获得有保障的性能，以及一致的索引和持久的仲裁提交写入。

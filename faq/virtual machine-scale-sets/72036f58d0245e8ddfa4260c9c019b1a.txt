@@ -1,0 +1,1 @@
+在哪里可以找到使用基于主机的指标执行自动缩放时的相关指标名称？有关使用基于主机的指标执行自动缩放时的相关指标名称，请参阅 [Azure Monitor 支持的指标](https://docs.azure.cn/zh-cn/monitoring-and-diagnostics/monitoring-supported-metrics/)

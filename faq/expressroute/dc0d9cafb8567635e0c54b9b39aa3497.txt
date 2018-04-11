@@ -1,0 +1,1 @@
+与 ExpressRoute 的连接是冗余的吗？可以。 每条 ExpressRoute 线路都配置一对冗余交叉连接，以提供高可用性。

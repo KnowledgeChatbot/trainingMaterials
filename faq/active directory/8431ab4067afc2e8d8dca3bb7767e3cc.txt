@@ -1,0 +1,1 @@
+问：SaaS 应用程序的自动用户预配是什么？\n\n答： 使用 Azure AD 可在许多流行的云 (SaaS) 应用程序中自动创建、维护和删除用户标识。\n\n问：是否可以通过 Azure AD 设置安全的 LDAP 连接？\n\n答：不可以。 Azure AD 不支持 LDAP 协议。\n

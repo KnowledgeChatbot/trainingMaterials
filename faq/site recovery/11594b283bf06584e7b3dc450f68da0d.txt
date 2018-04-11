@@ -1,0 +1,1 @@
+Hyper-V 主机是否需要位于 VMM 云中？如果要复制到辅助数据中心，那么 Hyper-V VM 就必须位于 VMM 云中的 Hyper-V 主机服务器上。 如果想要复制到 Azure，那么可以复制 VM（无论是否使用 VMM 云）。 [详细了解](https://docs.azure.cn/site-recovery/tutorial-hyper-v-to-azure)从 Hyper-V 复制到 Azure。

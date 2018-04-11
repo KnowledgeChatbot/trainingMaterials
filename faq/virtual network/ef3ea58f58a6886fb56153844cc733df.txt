@@ -1,0 +1,1 @@
+如何知道是否需要 VNet？[虚拟网络概述](https://docs.azure.cn/virtual-network/virtual-networks-overview)一文提供了一份决策表，可帮助你确定最佳的网络设计选项。

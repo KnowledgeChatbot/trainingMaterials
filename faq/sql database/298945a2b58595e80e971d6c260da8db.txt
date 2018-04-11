@@ -1,0 +1,1 @@
+如何管理数据库和登录名？请参阅[管理数据库和登录名](https://docs.azure.cn/sql-database/sql-database-manage-logins)

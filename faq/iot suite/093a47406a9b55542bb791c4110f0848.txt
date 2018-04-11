@@ -1,0 +1,1 @@
+模拟设备忽略所需属性更改，这是什么原因？在远程监控预配置解决方案中，模拟设备代码仅使用所需的属性 Desired.Config.TemperatureMeanValue 和Desired.Config.TelemetryInterval 来更新报告的属性。 忽略所有其他的所需属性更改请求。

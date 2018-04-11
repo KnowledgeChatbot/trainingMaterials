@@ -1,0 +1,1 @@
+如何在现有资源组中创建规模集？尚不能通过 Azure 门户在现有资源组中创建规模集，但从 Azure Resource Manager 模板部署规模集时，可以指定现有资源组。 使用 Azure PowerShell 或 CLI 创建规模集时，也可指定现有的资源组。

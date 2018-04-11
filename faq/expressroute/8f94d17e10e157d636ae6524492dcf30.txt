@@ -1,0 +1,1 @@
+我有多个包含虚拟网络的 Azure 订阅。 能否将不同订阅中的虚拟网络连接到单个 ExpressRoute 线路？\n\n可以。 最多可以授权其他 10 个 Azure 订阅使用单个 ExpressRoute 线路。 可以通过启用 ExpressRoute 高级功能来提高此限制。\n\n有关详细信息，请参阅[在多个订阅之间共享 ExpressRoute 线路](https://docs.azure.cn/expressroute/expressroute-howto-linkvnet-arm)\n

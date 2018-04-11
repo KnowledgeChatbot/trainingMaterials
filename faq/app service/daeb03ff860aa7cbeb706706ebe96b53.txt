@@ -1,0 +1,1 @@
+如何将 ASP.NET 应用程序从 Visual Studio 部署到应用服务？教程[五分钟内在 Azure 中创建第一个 ASP.NET Web 应用](https://docs.azure.cn/app-service/app-service-web-get-started-dotnet)演示如何使用 Visual Studio 2017 将 ASP.NET Web 应用程序部署到应用服务中的 Web 应用。

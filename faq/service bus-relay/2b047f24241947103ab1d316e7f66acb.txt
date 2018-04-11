@@ -1,0 +1,1 @@
+什么是共享访问签名？哪些语言可以用来生成签名？共享访问签名是基于 SHA-256 安全哈希或 URI 的身份验证机制。 有关如何在 Node、PHP、Java、C 和 C# 中生成自有签名的信息，请参阅[使用共享访问签名进行服务总线身份验证](https://docs.azure.cn/service-bus-messaging/service-bus-sas)

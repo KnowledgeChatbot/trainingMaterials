@@ -1,0 +1,1 @@
+VNet 的 DNS 选项有哪些？使用 [VM 和角色实例的名称解析](https://docs.azure.cn/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)页上的决策表，可引导用户浏览可用的所有 DNS 选项。

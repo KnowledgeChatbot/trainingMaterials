@@ -1,0 +1,1 @@
+如何将虚拟机规模集中第一个 VM 的 IP 地址添加到模板的输出中？若要将虚拟机规模集中第一个 VM 的 IP 地址添加到模板的输出中，请参阅 [ARM：获取 VMSS 的专用 IP](http://stackoverflow.com/questions/42790392/arm-get-vmsss-private-ips)

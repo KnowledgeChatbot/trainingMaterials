@@ -1,0 +1,1 @@
+如何注册 Azure Cosmos DB？可以在 Azure 门户中注册 Azure Cosmos DB。 首先，注册 Azure 订阅。 注册后即可将 Cosmos DB API、表 API 或 MongoDB API 帐户添加到 Azure 订阅。

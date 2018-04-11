@@ -1,0 +1,1 @@
+世纪互联将如何使用我存储在 Azure 中的信息？世纪互联仅将您存储在 Azure 中的客户数据用于为您提供 Azure 服务。这些服务可能包括为防止、检测或修复影响 Azure 运行的问题而进行故障排除 ，以及改进涉及检测和抵御用户受到的新兴且不断演变的威胁（如恶意软件或垃圾邮件）的功能。如果您想了解更多我们对您的数据所做的承诺，请访问 Azure 信任中心的[隐私](//www.trustcenter.cn/zh-cn/privacy/)及[常见问题](//www.trustcenter.cn/zh-cn/resources/FAQ.html)页面。

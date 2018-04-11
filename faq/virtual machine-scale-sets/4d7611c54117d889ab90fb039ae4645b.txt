@@ -1,0 +1,1 @@
+虚拟机规模集的 virtualMachineProfile.osProfile 的 Secrets 属性的工作原理是什么？ 使用 certificateUrl 属性指定证书的绝对 URI 时，为什么需要 sourceVault 值？\n\nWindows 远程管理 (WinRM) 证书引用必须在 OS 配置文件的 Secrets 属性中存在。 \n\n指示源保管库的目的在于强制实施访问控制列表 (ACL) 策略，该策略存在于用户的 Azure 云服务模型中。 如果源保管库未指定，无权在密钥保管库中部署或访问机密的用户可以通过计算资源提供程序 (CRP) 实现此目的。 即使是不存在的资源，它们也有 ACL。\n\n如果提供错误的源保管库 ID 但提供有效的保管库 URL，轮询操作时系统会报告错误。\n

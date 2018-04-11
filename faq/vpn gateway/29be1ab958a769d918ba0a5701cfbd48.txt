@@ -1,0 +1,1 @@
+哪些网关 SKU 支持 P2S VPN？SKUP2S 连接聚合吞吐量基准RADIUS 身份验证IKEv2 P2S VPNVpnGw1128650 Mbps支持支持VpnGw21281Gbps支持支持VpnGw31281.25 Gbps支持支持基本128100 Mbps不支持不支持\n\n*   聚合吞吐量基准基于对通过单个网关聚合的多个隧道的测量。 受 Internet 流量情况和应用程序行为影响，该吞吐量无法保证。\n*   可在"定价"页上找到定价信息 \n*   可在"SLA"页上查看 SLA（服务级别协议）信息。\n\n## 本机 Azure 证书身份验证常见问题解答\n\n

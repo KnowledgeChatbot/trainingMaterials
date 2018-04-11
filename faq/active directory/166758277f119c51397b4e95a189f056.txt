@@ -1,0 +1,1 @@
+问：是否可以通过 Azure AD 设置安全的 LDAP 连接？答：不可以。 Azure AD 不支持 LDAP 协议。

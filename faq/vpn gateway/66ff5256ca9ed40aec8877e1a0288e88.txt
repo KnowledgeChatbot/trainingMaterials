@@ -1,0 +1,1 @@
+能否将 BGP 用于 VNet 到 VNet 连接？能，可以将 BGP 同时用于跨界连接和 VNet 到 VNet 连接。

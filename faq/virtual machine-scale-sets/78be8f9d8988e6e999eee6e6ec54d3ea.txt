@@ -1,0 +1,1 @@
+能否配置与多个应用程序网关配合使用的规模集？\n\n是的。 可以将多个应用程序网关后端地址池的资源 ID 添加到规模集网络配置文件的 ipConfigurations 部分的 applicationGatewayBackendAddressPools 列表中。\n\n## 缩放\n\n

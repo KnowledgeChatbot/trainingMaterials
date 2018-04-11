@@ -1,0 +1,1 @@
+Azure VPN 网关是否支持 BGP 传输路由？是，支持 BGP 传输路由，但例外是 Azure VPN 网关不会将默认路由播发到其他 BGP 对等节点。 若要启用跨多个 Azure VPN 网关的传输路由，必须在所有中间 VNet 到 VNet 连接上启用 BGP。

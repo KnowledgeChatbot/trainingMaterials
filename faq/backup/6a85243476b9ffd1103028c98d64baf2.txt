@@ -1,0 +1,1 @@
+DPM 和 Windows Server/客户端（即，在不带 DPM 的 Windows Server 上）的保留策略是否有差别？否，DPM 和 Windows Server/客户端都有每日、每周、每月和每年保留策略。

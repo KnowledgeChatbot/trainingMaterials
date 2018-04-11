@@ -1,0 +1,1 @@
+为什么在配置备份向导中看不到我的 VM？\n\n在配置备份向导中，Azure 备份只列出符合以下条件的 VM：\n\n*   尚未进行保护 - 可以验证 VM 的备份状态，方法是：转到 VM 边栏选项卡，从"设置"菜单查看备份状态。 详细了解如何[查看 VM 的备份状态](https://docs.azure.cn/backup/backup-azure-vms-first-look-arm)。\n*   与 VM 属于同一区域\n\n## 备份\n\n

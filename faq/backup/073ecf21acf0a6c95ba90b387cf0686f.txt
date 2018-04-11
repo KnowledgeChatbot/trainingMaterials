@@ -1,0 +1,1 @@
+备份作业可计划的时间或次数是否有限制？是的。 一天可以在 Windows Server 或 Windows 工作站上运行备份操作最多三次。 一天可以在 System Center DPM 上运行备份操作最多两次。 一天可以运行 IaaS VM 的备份作业一次。 可以将计划策略用于 Windows Server 或 Windows 工作站，以便指定每日或每周计划。 使用 System Center DPM 时，可以指定每日、每周、每月和每年计划。

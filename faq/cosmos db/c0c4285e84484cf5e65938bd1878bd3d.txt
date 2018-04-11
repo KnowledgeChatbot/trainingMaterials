@@ -1,0 +1,1 @@
+如何连接到 API for MongoDB 数据库？\n\n若要连接到 Azure Cosmos DB API for MongoDB，最快捷的方式是使用 [Azure 门户](https://portal.azure.cn/)。 转到帐户，然后在左侧导航菜单上单击"快速启动"。 "快速启动"是获取连接到数据库的代码片段的最佳方式。 \n\nAzure Cosmos DB 实施严格的安全要求和标准。 Azure Cosmos DB 帐户需要通过 SSL 进行身份验证和安全通信，因此务必使用 TLSv1.2。\n\n有关详细信息，请参阅[连接到 API for MongoDB 数据库](https://docs.azure.cn/cosmos-db/connect-mongodb-account)\n

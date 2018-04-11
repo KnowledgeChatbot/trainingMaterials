@@ -1,0 +1,1 @@
+是否可以为 VNet 到 VNet 或多站点连接使用 PolicyBased VPN 类型？否。 VNet 到 VNet 连接和多站点连接需要 RouteBased（以前称为动态路由）VPN 类型的 Azure VPN 网关。

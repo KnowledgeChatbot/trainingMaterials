@@ -1,0 +1,1 @@
+没有跨界连接的情况下是否可以使用 VNet？可以。 可以在不使用混合连接的情况下使用 VNet。 如果想要在 Azure 中运行 Microsoft Windows Server Active Directory 域控制器和 SharePoint 场，此功能特别有用。

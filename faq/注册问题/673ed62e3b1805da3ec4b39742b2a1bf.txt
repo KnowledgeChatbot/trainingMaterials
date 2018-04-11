@@ -1,0 +1,1 @@
+什么是 OrgID？它跟试用订阅与标准预付费订阅有什么关系？OrgID 是由世纪互联运营的微软智能云服务的特定用户名系统，用来管理 Azure 订阅。OrgID 由 @"domain name".partner.onmschina.cn 组成。账户由 "new user ID"@"domain name".partner.onmschina.cn 组成，用户需要使用账户名、密码进行登陆。比如，您选择同您公司名称类似的字母 ABC 作为 "domain name"，选择 XYZ 作为 "new user ID"，您的 OrgID 为 @ABC.partner.onmschina.cn，您的账户为 XYZ@ABC.partner.onmschina.cn。

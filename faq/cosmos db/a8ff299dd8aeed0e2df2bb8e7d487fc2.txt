@@ -1,0 +1,1 @@
+DocumentDB 有哪些变化？DocumentDB API 是适用于 Azure Cosmos DB 的受支持 API 和数据模型之一。 此外，Azure Cosmos DB 还支持表 API 和 MongoDB API。 有关详细信息，请参阅[来自 DocumentDB 客户的问题](https://docs.azure.cn/cosmos-db/#moving-to-cosmos-db)

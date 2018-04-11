@@ -1,0 +1,1 @@
+SLA 是否有变化？没有，有关可用性、一致性、延迟和吞吐量的 SLA 都保持不变，并且仍会显示在门户中。 有关详细信息，请参阅 [SLA for Azure Cosmos DB](https://www.azure.cn/support/sla/cosmos-db/)（Azure Cosmos DB 的 SLA）。

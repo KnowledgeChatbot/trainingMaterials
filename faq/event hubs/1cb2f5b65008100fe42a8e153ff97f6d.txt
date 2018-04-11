@@ -1,0 +1,1 @@
+事件中心基本和标准这两种服务层有什么不同？\n\nAzure 事件中心标准层提供的功能超出了基本层中提供的功能。 以下功能是标准层附带的：\n\n*   更长的事件保留期\n*   其他中转连接，对于超出包含的数量的部分收取超额费用\n*   多于单个使用者组\n*   [捕获](https://docs.azure.cn/zh-cn/event-hubs/event-hubs-capture-overview)\n\n有关定价层的详细信息（包括专用事件中心），请参阅[事件中心定价详细信息](https://www.azure.cn/pricing/details/event-hubs/)\n

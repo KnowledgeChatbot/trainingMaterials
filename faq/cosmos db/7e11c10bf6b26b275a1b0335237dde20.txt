@@ -1,0 +1,1 @@
+Azure Cosmos DB 的存储限制是什么？对于容器可以存储在 Azure Cosmos DB 中的数据总量并没有任何限制。

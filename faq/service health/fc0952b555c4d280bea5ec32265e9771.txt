@@ -1,0 +1,1 @@
+后续步骤\n\n了解有关资源运行状况的详细信息：\n\n*   [Azure 资源运行状况概述](https://docs.azure.cn/service-health/resource-health-overview)\n*   [可通过 Azure 资源运行状况使用的资源类型和运行状况检查](https://docs.azure.cn/service-health/resource-health-checks-resource-types)
