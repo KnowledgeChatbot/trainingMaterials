@@ -1,1 +1,0 @@
-是否需要新的 SDK 才能使用表 API？不是，现有的存储 SDK 仍然适用。 但是，我们建议始终使用最新的 SDK，以获得最佳支持，并在许多场合下获得优异的性能。 请参阅 [Azure Cosmos DB 表 API 简介](https://docs.azure.cn/cosmos-db/table-introduction)中的可用语言列表。

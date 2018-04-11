@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB 如何设置用户和权限？"],"Answer":"可以使用某个 [Cosmos DB API SDK](https://docs.azure.cn/cosmos-db/documentdb-sdk-dotnet) 或 [REST API](https://docs.microsoft.com/rest/api/documentdb/) 来创建用户和权限。"}

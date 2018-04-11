@@ -1,0 +1,1 @@
+{"Questions":["如果购买具有给定带宽的 Azure ExpressRoute 线路，是否必须从网络服务提供商购买具有相同速度的 VPN 连接？"],"Answer":"购买具有给定带宽的 Azure ExpressRoute 线路，不必从网络服务提供商购买具有相同速度的 VPN 连接。 可以从服务提供商购买任何速度的 VPN 连接。 但是，与 Azure 的连接速度限制为购买的 ExpressRoute 线路带宽。"}

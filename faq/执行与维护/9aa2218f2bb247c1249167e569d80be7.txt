@@ -1,1 +1,0 @@
-我应当采取何种措施来降低此维护对我的运行中应用程序造成的影响和风险？回答：我们建议您使用架构中的[可用性集](https://docs.azure.cn/virtual-machines/virtual-machines-linux-manage-availability)，以防止预先计划的维护引起停机。在可用性集中，对于云服务和虚拟机，此维护一次只更新一个故障域 ( FD ) 中的实例。同时，我们也鼓励客户针对可用性集与微软联系人（销售现场人员、技术支持客户经理等）协作。有关详细信息，请访问[管理虚拟机的可用性](https://docs.azure.cn/virtual-machines/virtual-machines-linux-manage-availability)网页。

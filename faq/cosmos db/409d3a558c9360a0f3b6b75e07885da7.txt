@@ -1,1 +1,0 @@
-是否可以访问一些现成的示例来帮助自己入门？GitHub 上提供 DocumentDB API [.NET](https://docs.azure.cn/cosmos-db/documentdb-dotnet-samples)、[Java](https://github.com/Azure/azure-documentdb-java)、[Node.js](https://docs.azure.cn/cosmos-db/documentdb-nodejs-samples) 和 [Python](https://docs.azure.cn/cosmos-db/documentdb-python-samples) SDK 的示例。

@@ -1,1 +1,0 @@
-可创建的恢复点数量是否有限制？最多可为单个受保护实例创建 9999 个恢复点。 受保护的实例是计算机、服务器（物理或虚拟）或配置为向 Azure 备份数据的工作负荷。 有关详细信息，请参阅[备份和保留](https://docs.azure.cn/backup/backup-introduction-to-azure-backup#backup-and-retention)和[什么是受保护实例？](https://docs.azure.cn/backup/backup-introduction-to-azure-backup#what-is-a-protected-instance)的说明

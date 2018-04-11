@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB 的 Apache Cassandra API 是否支持节点添加/群集状态/节点状态命令？","delete, not found this question"],"Answer":"Apache Cassandra API 是一项平台服务，使用它可以轻松做出容量规划，以及应对吞吐量和存储方面的弹性需求。 借助 Azure Cosmos DB，可以预配所需的吞吐量。 然后，可以在一整天中多次上调和下调吞吐量，而无需担心如何添加/删除或管理节点。 这意味着也不需要使用节点、群集管理工具。"}

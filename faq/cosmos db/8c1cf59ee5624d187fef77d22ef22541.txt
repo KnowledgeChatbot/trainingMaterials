@@ -1,1 +1,0 @@
-是否支持针对实体的 OData 查询模型？是，表 API 支持 OData 查询和 LINQ 查询。

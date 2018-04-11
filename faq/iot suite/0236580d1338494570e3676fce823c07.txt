@@ -1,1 +1,0 @@
-如果有 Microsoft Azure for DreamSpark，是否可以创建预配置解决方案？当前无法使用 Microsoft Azure for DreamSpark 帐户创建预配置解决方案。 但是，可以在几分钟内创建一个 [Azure 试用帐户](https://www.azure.cn/pricing/1rmb-trial/)，以便创建预配置的解决方案。

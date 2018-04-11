@@ -1,1 +1,0 @@
-主键是否映射到 Azure Cosmos DB 的分区键概念？是，分区键用来将实体放置在正确位置。 在 Azure Cosmos DB 中，它用来查找存储在物理分区中的正确逻辑分区。 [在 Azure Cosmos DB 中分区和缩放](https://docs.azure.cn/cosmos-db/partition-data)一文中很好地解释了分区概念。 此处，必须记住的一点是，逻辑分区目前不应当超出 10 GB 限制。

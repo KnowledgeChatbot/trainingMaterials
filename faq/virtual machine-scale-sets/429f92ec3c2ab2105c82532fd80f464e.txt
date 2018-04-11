@@ -1,1 +1,0 @@
-与 Operations Management Suite 集成的虚拟机规模集模板是否有任何示例可供参考？有关与 Operations Management Suite 集成的虚拟机规模集模板示例，请参阅[部署 Azure Service Fabric 群集，并通过使用 Log Analytics 来启用监视](https://github.com/krnese/AzureDeploy/tree/master/OMS/MSOMS/ServiceFabric)中的第二个示例。

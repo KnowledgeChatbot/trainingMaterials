@@ -1,0 +1,1 @@
+{"Questions":["如何重置服务器管理员的密码？"],"Answer":"在 [Azure 门户](https://portal.azure.cn/)中，单击\"SQL Server\"，从列表中选择服务器，然后单击\"重置密码\"。"}

@@ -1,1 +1,0 @@
-帐单上如何体现弹性池中活动异地复制的使用？与单一数据库不同的是，对弹性数据库使用[活动异地复制](https://docs.azure.cn/sql-database/sql-database-geo-replication-overview)对计费没有直接的影响。 你只需支付对每个池（主池和辅助池）预配的 eDTU 费用

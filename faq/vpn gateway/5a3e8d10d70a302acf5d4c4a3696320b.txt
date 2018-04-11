@@ -1,1 +1,0 @@
-在何处查找 IPsec 和 IKE 参数？对于 IPsec/IKE 参数，请参阅[参数](https://docs.azure.cn/vpn-gateway/vpn-gateway-about-vpn-devices#ipsec)。

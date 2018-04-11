@@ -1,1 +1,0 @@
-VNet 到 VNet 流量是否安全？是，它通过 IPsec/IKE 加密进行保护。

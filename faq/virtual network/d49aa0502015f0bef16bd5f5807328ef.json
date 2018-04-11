@@ -1,0 +1,1 @@
+{"Questions":["是否可以为 VNet 指定 DNS 服务器？"],"Answer":"是的。 可以在 VNet 设置中指定 DNS 服务器 IP 地址。 这将作为 VNet 中所有 VM 的默认 DNS 服务器进行应用。"}

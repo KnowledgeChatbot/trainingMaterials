@@ -1,1 +1,0 @@
-能否使用 ExpressRoute 将我的一个 VLAN 扩展到 Azure？否。 不支持将第 2 层连接扩展到 Azure。

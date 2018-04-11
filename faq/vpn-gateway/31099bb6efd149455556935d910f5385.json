@@ -1,0 +1,1 @@
+{"Questions":["我已部署 Azure VPN 网关。 是否可在该网关上启用 RADIUS 和/或 IKEv2 VPN？"],"Answer":"是的，可以通过 Powershell 和 Azure 门户，在已部署的网关启用这些新功能。"}

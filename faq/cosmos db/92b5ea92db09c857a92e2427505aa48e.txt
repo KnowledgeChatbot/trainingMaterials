@@ -1,1 +1,0 @@
-如何提供有关 SDK 或 Bug 的反馈？\n\n可通过以下途径提供反馈：\n\n*   [Azure 支持](https://www.azure.cn/support/contact/)

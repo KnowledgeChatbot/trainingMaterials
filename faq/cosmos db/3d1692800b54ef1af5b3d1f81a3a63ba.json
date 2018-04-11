@@ -1,0 +1,1 @@
+{"Questions":["SQL API 是否支持 SQL？"],"Answer":"SQL 查询语言是 SQL 支持的查询功能增强子集。 Azure Cosmos DB SQL 查询语言通过基于 JavaScript 的用户定义函数 (UDF)，提供丰富的分层和关系运算符以及可扩展性。 JSON 语法允许将 JSON 文档模型化为带标签节点的树状，由 Azure Cosmos DB 的自动索引技术及 Azure Cosmos DB 的 SQL 查询方言使用。 若要了解如何使用 SQL 语法，请参阅 [QueryDocumentDB](https://docs.azure.cn/cosmos-db/documentdb-sql-query) 一文。"}

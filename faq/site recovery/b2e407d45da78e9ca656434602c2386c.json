@@ -1,0 +1,1 @@
+{"Questions":["Azure Site Recovery 可以使用动态磁盘来复制虚拟机吗？"],"Answer":"Azure Site Recovery 复制 Hyper-V 虚拟机时，支持使用动态磁盘。 将 VMware VM 和物理计算机复制到 Azure 时也支持使用动态磁盘。 操作系统磁盘必须是基本磁盘。"}

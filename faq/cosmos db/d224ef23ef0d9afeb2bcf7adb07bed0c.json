@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos 表 API 操作并发性是否受控制？","Azure Cosmos 表 API 操作并发性受控制吗？","Azure Cosmos 表 API 操作并发性可以控制吗？"],"Answer":"Azure Cosmos 表 API 操作并发性受控制，通过使用 ETag 机制提供乐观并发。"}

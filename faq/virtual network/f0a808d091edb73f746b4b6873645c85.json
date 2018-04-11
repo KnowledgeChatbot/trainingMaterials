@@ -1,0 +1,1 @@
+{"Questions":["是否可以通过 VNet 中的 VM 连接到 Internet？"],"Answer":"可以。 VNet 中部署的所有 VM 和云服务角色实例都可连接到 Internet。## 连接到 VNet 的 Azure 服务"}

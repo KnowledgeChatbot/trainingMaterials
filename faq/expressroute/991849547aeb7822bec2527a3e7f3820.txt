@@ -1,1 +1,0 @@
-什么是 ExpressRoute 高级版？\n\nExpressRoute 高级版是以下功能的集合：\n\n*   对于专用对等互连，将路由表限制从 4000 个路由提升为 10,000 个路由。\n*   增加了可连接到 ExpressRoute 线路的 VNet 数量（默认数量为 10 个）。 有关详细信息，请参阅 [ExpressRoute 限制](https://docs.azure.cn/expressroute/#limits)表。\n*   通过 Microsoft 核心网络建立全局连接。 现在，可将一个地缘政治区域中 VNet 链接到另一个区域中的 ExpressRoute 线路。

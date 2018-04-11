@@ -1,1 +1,0 @@
-能否使用 Azure VPN 网关在我的本地站点之间传输流量或将流量传输到其他虚拟网络？\n\nResource Manager 部署模型 是。 有关详细信息，请参阅 [BGP](https://docs.azure.cn/vpn-gateway/#bgp) 部分。\n\n经典部署模型 使用经典部署模型通过 Azure VPN 网关传输流量是可行的，但依赖于网络配置文件中静态定义的地址空间。 使用经典部署模型的 Azure 虚拟网络和 VPN 网关尚不支持 BGP。 没有 BGP，手动定义传输地址空间很容易出错，不建议这样做。\n

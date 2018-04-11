@@ -1,1 +1,0 @@
-Azure 服务总线的最佳实践有哪些？请参阅[使用服务总线改进性能的最佳做法](https://docs.azure.cn/service-bus-messaging/service-bus-performance-improvements) - 本文介绍了如何在交换消息时优化性能。

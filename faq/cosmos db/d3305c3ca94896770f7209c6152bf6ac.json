@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB SQL API 是否支持 SQL 聚合函数？","Azure Cosmos DB SQL API 支持 SQL 聚合函数吗？"],"Answer":"Azure Cosmos DB SQL API 支持通过聚合函数 COUNT、MIN、MAX、AVG 和 SUM 通过 SQL 语法实现的任何规模的低延迟聚合。 有关详细信息，请参阅[聚合函数](https://docs.azure.cn/cosmos-db/sql-api-sql-query#Aggregates)。"}

@@ -1,0 +1,1 @@
+{"Questions":["对于服务提供商而言，我的租户标识是否与 Site Recovery 服务共享？","租户标识能与 Site Recovery 服务共享吗？"],"Answer":"对于服务提供商而言，租户标识不能与 Site Recovery 服务共享。租户标识是匿名的。 租户不需要访问 Site Recovery 门户。 只有服务提供商管理员才能与门户交互。"}

@@ -1,1 +1,0 @@
-是否可以配置强制隧道？是的。 请参阅[配置强制隧道](https://docs.azure.cn/vpn-gateway/vpn-gateway-about-forced-tunneling)。

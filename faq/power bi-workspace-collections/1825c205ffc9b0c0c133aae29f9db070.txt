@@ -1,1 +1,0 @@
-可以从何处了解详细信息？可以访问 [Power BI 工作区集合文档页](https://docs.azure.cn/power-bi-workspace-collections/get-started)。 通过访问 [Power BI 博客](https://powerbi.microsoft.com/blog/)或通过访问 dev.powerbi.cn 上的 Power BI 开发人员中心，可以了解该服务的最新信息。 也可以在 [Stackoverflow](http://stackoverflow.com/questions/tagged/powerbi)上提问。

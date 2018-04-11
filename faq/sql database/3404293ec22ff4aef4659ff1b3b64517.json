@@ -1,0 +1,1 @@
+{"Questions":["哪些工具可用于监视主数据库与地域辅助数据库之间的复制延迟？"],"Answer":"我们通过 DMV 显示主数据库与地域辅助数据库之间的实时复制延迟。 有关详细信息，请参阅 [sys.dm_geo_replication_link_status](https://msdn.microsoft.com/library/mt575504.aspx)"}

@@ -1,0 +1,1 @@
+{"Questions":["使用 Azure ExpressRoute 和专用网络连接的好处是什么？","使用 Azure ExpressRoute 和专用网络连接有什么好处？"],"Answer":"Azure ExpressRoute 连接不通过公共 Internet 。 与通过 Internet 的典型连接相比，ExpressRoute 连接提供更高的安全性、可靠性、速度和较低的一致延迟。 在某些情况下，使用 ExpressRoute 连接在本地设备和 Azure 之间传输数据可以产生显著的成本效益。"}

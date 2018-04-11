@@ -1,1 +1,0 @@
-其他资源\n\n[关于 Azure 虚拟机](https://docs.azure.cn/virtual-machines/virtual-machines-linux-about)\n\n[创建 Linux 虚拟机的不同方式](https://docs.azure.cn/virtual-machines/linux/creation-choices?toc=/virtual-machines/linux/toc.json)\n\n[创建 Windows 虚拟机的不同方式](https://docs.azure.cn/virtual-machines/windows/creation-choices?toc=/virtual-machines/windows/toc.json)\n

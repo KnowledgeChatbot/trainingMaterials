@@ -1,0 +1,1 @@
+{"Questions":["哪些客户端 SDK 适用于 Azure Cosmos DB 的 Apache Cassandra API？","delete, not found this question"],"Answer":"在个人预览版中，Apache Cassandra SDK 的使用 CQLv3 的客户端驱动程序用于客户端程序。 如果你使用其他驱动程序或者遇到问题，请向 [Azure Support](https://www.azure.cn/support/contact/) 发送邮件。"}

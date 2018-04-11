@@ -1,1 +1,0 @@
-如何在 Azure 门户中访问 DocumentDB 帐户？在 Azure 门户的左侧窗格中，单击 Azure Cosmos DB 图标。 如果以前已创建了一个 DocumentDB 帐户，则现在也有了一个 Azure Cosmos DB 帐户，费用不会有任何变化。

@@ -1,1 +1,0 @@
-Power BI 工作区集合可以用于创建内部应用程序吗？不能，Power BI 工作区集合仅供外部用户使用，不应在内部业务应用程序中使用。 为了嵌入用于内部业务应用程序的 Power BI 内容，应该使用 Power BI 服务，并且所有使用该内容的用户必须拥有一个有效的 Power BI 免费版或 Power BI Pro 的用户订阅许可证。 有关如何将内部应用程序与 Power BI 服务进行集成的详细信息，请访问 [https://dev.powerbi.cn](https://dev.powerbi.cn/)

@@ -1,0 +1,1 @@
+{"Questions":["如果只有一个 VMM 服务器，可以部署带 VMM 的 Site Recovery 吗？"],"Answer":"是的。 可以将 VMM 云中 Hyper-V 服务器上的 VM 复制到 Azure，或者在同一台服务器上的 VMM 云之间进行复制。 对于本地到本地复制，建议在主站点与辅助站点中都部署一个 VMM 服务器。"}

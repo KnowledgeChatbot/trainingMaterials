@@ -1,1 +1,0 @@
-点到站点连接可以用于哪些客户端操作系统？\n\n支持以下客户端操作系统：\n\n*   Windows 7（32 位和 64 位）\n*   Windows Server 2008 R2（仅 64 位）\n*   Windows 8（32 位和 64 位）\n*   Windows 8.1（32 位和 64 位）\n*   Windows Server 2012（仅 64 位）\n*   Windows Server 2012 R2（仅 64 位）\n*   Windows Server 2016（仅 64 位）\n*   Windows 10\n*   适用于 Mac 的 OSX 版本 10.11 (El Capitan)\n*   适用于 Mac 的 macOS 版本 10.12 (Sierra)

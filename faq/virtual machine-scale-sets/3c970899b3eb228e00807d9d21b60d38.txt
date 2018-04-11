@@ -1,1 +1,0 @@
-如何将虚拟机规模集部署到现有的 Azure 虚拟网络？若要将虚拟机规模集部署到现有的 Azure 虚拟网络，请参阅[将虚拟机规模集部署到现有的 Azure 虚拟网络](https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-existing-vnet)

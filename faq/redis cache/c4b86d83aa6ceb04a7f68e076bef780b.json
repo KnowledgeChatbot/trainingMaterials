@@ -1,0 +1,1 @@
+{"Questions":["生产中使用 Azure Redis 的一些最佳做法是什么？","生产中使用 Azure Redis 的最佳做法有哪些？"],"Answer":"*   [StackExchange.Redis 最佳做法](https://docs.azure.cn/redis-cache/cache-faq#stackexchangeredis-best-practices)\\n*   [配置和概念](https://docs.azure.cn/redis-cache/cache-faq#configuration-and-concepts)\\n*   [性能测试](https://docs.azure.cn/redis-cache/cache-faq#performance-testing)"}

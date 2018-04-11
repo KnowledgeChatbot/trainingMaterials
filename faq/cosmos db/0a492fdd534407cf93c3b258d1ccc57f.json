@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB SQL API 数据库是否支持无架构数据？","Azure Cosmos DB SQL API 数据库支持无架构数据吗？"],"Answer":"Azure Cosmos DB SQL API 数据库支持无架构数据，SQL API 允许应用程序存储任意 JSON 文档，不需要架构定义或提示。 通过 Azure Cosmos DB SQL 查询接口可立即查询数据。"}

@@ -1,1 +1,0 @@
-如何使用 FTP 或 FTPS 将应用部署到应用服务？有关如何使用 FTP 或 FTPS 将 Web 应用部署到应用服务的信息，请参阅[使用 FTP/S 将应用部署到应用服务](https://docs.azure.cn/app-service/app-service-deploy-ftp)

@@ -1,0 +1,1 @@
+{"Questions":["为何无法从本地 Ping 通 Azure VM 的 VIP IP 地址和端口？","如何从本地 Ping 通 Azure VM 的 VIP IP 地址和端口？"],"Answer":"通过 VIP 地址访问虚拟机时网络通讯需要通过 Azure Load Balancer。 Azure Load Balancer 目前不开放 ICMP 协议。Ping 属于 ICMP 协议组，因此无法通过 Load Balancer。 客户需要通过 VIP 检验虚拟机连接性的时候，可以通过 TCP 协议相关工具，如 Window 操作系统使用 PSping， Linux 操作系统可以使用 TCPping。 在虚拟网内部，虚拟机开放防火墙相应端口的情况下，虚拟机之间可以互相 Ping 通。"}

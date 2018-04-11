@@ -1,1 +1,0 @@
-在哪里可以找到预配置解决方案的源代码？\n\n源代码存储在以下 GitHub 存储库中：\n\n*   [远程监控预配置解决方案](https://github.com/Azure/azure-iot-remote-monitoring)\n*   [预测性维护预配置解决方案](https://github.com/Azure/azure-iot-predictive-maintenance)

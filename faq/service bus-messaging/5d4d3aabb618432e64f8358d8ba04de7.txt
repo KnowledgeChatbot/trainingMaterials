@@ -1,1 +1,0 @@
-什么是服务总线命名空间？[命名空间](https://docs.azure.cn/service-bus-messaging/service-bus-create-namespace-portal)提供了用于对应用程序中的服务总线资源进行寻址的范围容器。 必须创建命名空间才能使用服务总线，而且这也是开始使用的第一步。

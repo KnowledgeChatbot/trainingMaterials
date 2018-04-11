@@ -1,1 +1,0 @@
-可以限制针对 Hyper-V 复制流量分配的带宽吗？\n\n是的。 可以从以下部署文章中阅读更多有关限制带宽的信息：\n\n*   [复制 VMware VM 和物理服务器的容量规划](https://docs.azure.cn/site-recovery/site-recovery-plan-capacity-vmware)\n*   [将 Hyper-V VM 复制到 Azure 的容量规划](https://docs.azure.cn/site-recovery/site-recovery-capacity-planning-for-hyper-v-replication)\n\n## 故障转移\n\n

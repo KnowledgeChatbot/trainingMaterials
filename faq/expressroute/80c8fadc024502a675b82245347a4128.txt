@@ -1,1 +1,0 @@
-可以选择哪些服务提供商？\n\n有关服务提供商和位置的列表，请参阅 [ExpressRoute 合作伙伴和位置](https://docs.azure.cn/expressroute/expressroute-locations)。\n\n## 技术详细信息\n\n

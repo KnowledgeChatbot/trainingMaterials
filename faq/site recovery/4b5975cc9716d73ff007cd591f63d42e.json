@@ -1,0 +1,1 @@
+{"Questions":["Azure Site Recovery 可以从复制中排除特定的磁盘吗？"],"Answer":"使用 Azure 门户将 [VMware VM 和 Hyper-V VM 复制](https://docs.azure.cn/site-recovery/site-recovery-exclude-disk)到 Azure 时可以从复制中排除特定的磁盘。"}

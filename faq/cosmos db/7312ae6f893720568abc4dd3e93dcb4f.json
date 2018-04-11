@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB 表 API 是否比 Azure 表存储提供更多的一致性级别？"],"Answer":"Azure Cosmos DB 表 API 比 Azure 表存储提供更多的一致性级别。若要了解如何利用 Azure Cosmos DB 的分布式特性，请参阅[一致性级别](https://docs.azure.cn/cosmos-db/consistency-levels)。 由于一致性级别有充分的保证，因此可以放心使用。 有关详细信息，请参阅 [Azure Cosmos DB 功能](https://docs.azure.cn/cosmos-db/tutorial-develop-table-dotnet#azure-cosmos-db-capabilities)"}

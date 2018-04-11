@@ -1,1 +1,0 @@
-如何计算中继小时数？WCF 中继仅适用于标准层命名空间。 其他中继的定价和[连接配额](https://docs.azure.cn/service-bus-messaging/service-bus-quotas)保持不变。 这意味着中继将继续根据消息数（而不是操作数）和中继小时数计费。 有关详细信息，请参阅定价详细信息页上的[混合连接和 WCF 中继](https://www.azure.cn/pricing/details/messaging/)表。

@@ -1,1 +1,0 @@
-可以保护哪些 VMware VM？若要保护 VMware VM，则需要 vSphere 虚拟机监控程序和运行 VMware 工具的虚拟机。 我们还建议使用 VMware vCenter 服务器托管虚拟机监控程序。 [了解](https://docs.azure.cn/site-recovery/site-recovery-support-matrix-to-azure#failed-over-azure-vm-requirements)有关复制 VMware 服务器和 VM 到 Azure 或辅助站点的精确要求。

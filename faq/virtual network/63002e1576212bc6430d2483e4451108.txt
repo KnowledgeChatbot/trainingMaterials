@@ -1,1 +1,0 @@
-是否可以将 VNet 连接到 Azure 中的另一个 VNet？\n\n可以。 可使用以下方式将一个 VNet 连接到另一个 VNet：\n\n*   Azure VPN 网关。 有关详细信息，请参阅[配置 VNet 到 VNet 连接](https://docs.azure.cn/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)一文。 \n*   VNet 对等互连。 有关详细信息，请参阅 [VNet 对等互连概述](https://docs.azure.cn/virtual-network/virtual-network-peering-overview)一文。\n\n## 名称解析 (DNS)\n\n

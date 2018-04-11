@@ -1,1 +1,0 @@
-我可以在 Azure 创建 Windows Server 2003 的虚拟机吗？官方支持的 Windows Server 虚拟机模板为：*   Windows Server 2008 R2*   Windows Server 2012, Windows Server 2012 R2客户可以自己在本地使用 Hyper-V 创建 Server 2003 的虚拟机模板至 Azure 云端，但是如果这个虚拟机出现问题，就没有办法获得微软官方的支持。

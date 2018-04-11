@@ -1,1 +1,0 @@
-创建 VM 时，用户名有什么要求？\n\n用户名最长为 20 个字符，不能以句点（"."）结尾。 \n\n不允许使用以下用户名： administrator  admin  user  user1test  user2  test1  user3admin1  1  123  aactuser  adm  admin2  aspnetbackup  console  david  guestjohn  owner  root  serversql  support  support_388945a0  systest2  test3  user4  user5\n

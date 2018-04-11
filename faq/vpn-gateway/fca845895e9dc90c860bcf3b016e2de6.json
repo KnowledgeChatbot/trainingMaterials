@@ -1,0 +1,1 @@
+{"Questions":["Azure VPN 网关会播发给我哪些地址前缀？"],"Answer":"Azure VPN 网关会将以下路由播发到本地 BGP 设备：*   VNet 地址前缀\\n*   已连接到 Azure VPN 网关的每个本地网关的地址前缀\\n*   从连接到 Azure VPN 网关的其他 BGP 对等会话获知的路由， 默认路由或与任何 VNet 前缀重叠的路由除外。"}

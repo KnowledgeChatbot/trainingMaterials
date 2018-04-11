@@ -1,1 +1,0 @@
-什么是中继命名空间？[命名空间](https://docs.azure.cn/service-bus-relay/relay-create-namespace-portal)是一个范围容器，可用于对应用程序中的中继资源进行寻址。 必须创建命名空间才能使用中继。 这是入门的开始步骤之一。

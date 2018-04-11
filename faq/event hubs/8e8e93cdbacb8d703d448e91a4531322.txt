@@ -1,1 +1,0 @@
-是否有与事件中心关联的配额？\n\n如需所有事件中心配额的列表，请参阅[配额](https://docs.azure.cn/event-hubs/event-hubs-quotas)。\n\n## 故障排除\n\n

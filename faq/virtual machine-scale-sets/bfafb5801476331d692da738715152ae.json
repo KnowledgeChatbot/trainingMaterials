@@ -1,0 +1,1 @@
+{"Questions":["应该使用基于主机的指标还是使用诊断扩展来执行自动缩放？","111"],"Answer":"可以在 VM 上创建自动缩放设置，以使用主机级指标或基于来宾 OS 的指标。关于受支持的指标列表，请参阅 [Azure Monitor 自动缩放常用指标](https://docs.azure.cn/zh-cn/monitoring-and-diagnostics/insights-autoscale-common-metrics)。 此示例使用主机级 CPU 指标和消息计数指标。\\n"}

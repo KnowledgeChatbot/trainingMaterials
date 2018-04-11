@@ -1,1 +1,0 @@
-事件中心生成的异常有哪些，建议采取什么操作？有关可能的事件中心异常的列表，请参阅[异常概述](https://docs.azure.cn/event-hubs/event-hubs-messaging-exceptions)

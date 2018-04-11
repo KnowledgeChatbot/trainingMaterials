@@ -1,1 +1,0 @@
-哪里提供该服务？参阅 [ExpressRoute 合作伙伴和位置](https://docs.azure.cn/expressroute/expressroute-locations)了解服务上市区域和可用性。

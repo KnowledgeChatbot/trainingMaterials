@@ -1,1 +1,0 @@
-将本地位置连接到 Azure 有哪些技术要求？有关要求，请参阅 [ExpressRoute 先决条件页](https://docs.azure.cn/expressroute/expressroute-prerequisites)

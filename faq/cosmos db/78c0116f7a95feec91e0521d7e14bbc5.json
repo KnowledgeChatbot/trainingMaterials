@@ -1,0 +1,1 @@
+{"Questions":["哪些工具适用于 Azure Cosmos DB 表 API？"],"Answer":"可以使用 [Azure 存储资源管理器](https://docs.azure.cn/zh-cn/vs-azure-tools-storage-manage-with-storage-explorer)。灵活地采用之前指定格式的连接字符串的工具可以支持新的表 API。 [Azure 存储客户端工具](https://docs.azure.cn/storage/common/storage-explorers)页中提供了表工具列表。 \\n"}

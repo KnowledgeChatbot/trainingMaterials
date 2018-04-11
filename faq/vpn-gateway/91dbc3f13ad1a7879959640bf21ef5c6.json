@@ -1,0 +1,1 @@
+{"Questions":["如果删除自定义 IPsec/IKE 策略，连接是否会变得不受保护？"],"Answer":"否。连接仍受 IPsec/IKE 保护。 从连接中删除自定义策略以后，Azure VPN 网关会还原为[默认的 IPsec/IKE 提议列表](https://docs.azure.cn/zh-cn/vpn-gateway/vpn-gateway-about-vpn-devices)，并再次重启与本地 VPN 设备的 IKE 握手。"}

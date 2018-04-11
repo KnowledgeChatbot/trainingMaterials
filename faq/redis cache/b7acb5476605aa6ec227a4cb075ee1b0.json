@@ -1,0 +1,1 @@
+{"Questions":["Azure Redis 缓存如何计费？"],"Answer":"[此处](https://www.azure.cn/pricing/details/redis-cache/)提供了 Azure Redis 缓存定价。 定价页列出了每小时费率。 缓存按分钟计费，从创建缓存时开始，到删除缓存时为止。 没有提供用于停止或暂停缓存的计费选项。"}

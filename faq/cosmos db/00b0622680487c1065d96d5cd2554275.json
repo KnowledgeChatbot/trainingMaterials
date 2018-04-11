@@ -1,0 +1,1 @@
+{"Questions":["如何在特定情况下为 Azure Cosmos DB 扩展存储大小？比如，最初我有 n GB 的数据，但一段时间后我的数据会增长到 1 TB。","如何在特定情况下扩展 Azure Cosmos DB 存储大小？"],"Answer":"根据设计，可以通过横向缩放让 Azure Cosmos DB 提供无限的存储。 可以通过服务来监视并有效地增大存储。"}

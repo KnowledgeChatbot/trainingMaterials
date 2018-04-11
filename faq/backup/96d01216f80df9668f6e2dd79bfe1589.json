@@ -1,0 +1,1 @@
+{"Questions":["我已安装 Azure 备份代理来保护我的文件和文件夹。 现在可以安装 System Center DPM 来与 Azure 备份代理配合使用，以便在 Azure 中保护本地应用程序/VM 工作负荷吗？"],"Answer":"要将 Azure 备份与 System Center Data Protection Manager (DPM) 一起使用，请先安装 DPM，然后再安装 Azure 备份代理。 以这种顺序安装 Azure 备份组件可确保 Azure 备份代理与 DPM 配合使用。 不建议也不支持在安装 DPM 之前安装 Azure 备份代理。"}

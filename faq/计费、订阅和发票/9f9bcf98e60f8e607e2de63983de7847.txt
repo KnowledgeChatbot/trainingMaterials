@@ -1,1 +1,0 @@
-若因银行限制无法备注完整的订阅 ID，应该怎么办？1. 若因银行限制无法备注完整的订阅 ID，请直接填写以下汇款信息发送到 [azure_invoice@oe.21vianet.com](mailto:azure_invoice@oe.21vianet.com)，以便我们区分汇款来源并及时充值到您的订阅。2. 订阅 ID (您可登录[订阅管理门户](https://account.windowsazure.cn/subscriptions), 点击订阅名称，页面右侧会显示"订阅 ID" )：3. 汇款金额：4. 汇款日期：5. 汇款银行账号：6. 汇款人姓名（汇款底单上的汇款人）：7. 公司名称：8. 联系人手机：

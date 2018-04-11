@@ -1,0 +1,1 @@
+{"Questions":["VPN 隧道是否共享带宽？"],"Answer":"是的。 虚拟网络的所有 VPN 隧道共享 Azure VPN 网关上的可用带宽，以及 Azure 中的相同 VPN 网关运行时间 SLA。"}

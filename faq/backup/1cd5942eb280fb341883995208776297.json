@@ -1,0 +1,1 @@
+{"Questions":["我最近在一些 VM 上启用了 Azure 磁盘加密。 我的备份是否继续有效？"],"Answer":"需提供 Azure 备份服务访问 Key Vault 所需的权限。 可以在 PowerShell 中使用 [PowerShell](https://docs.azure.cn/backup/backup-azure-vms-automation) 文档的\"启用备份\"部分所述步骤提供这些权限。"}

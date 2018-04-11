@@ -1,0 +1,1 @@
+{"Questions":["是否可以通过 Azure AD 设置安全的 LDAP 连接？","能不能通过 Azure AD 设置安全的 LDAP 连接？","能不能通过 Azure AD 设置 LDAP 连接？","可不可以使用 Azure AD 设置 LDAP 连接？"],"Answer":"不可以。 Azure AD 不支持 LDAP 协议。"}

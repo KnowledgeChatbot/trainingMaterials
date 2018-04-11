@@ -1,1 +1,0 @@
-最多可以创建多少个键空间？键空间数目没有物理限制，因为它们是元数据容器，如果由于某种原因，你有大量的键空间，请向 [Azure Support](https://www.azure.cn/support/contact/) 发送电子邮件。

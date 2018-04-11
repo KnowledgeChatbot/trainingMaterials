@@ -1,1 +1,0 @@
-Azure 可否支持 Linux VM？可以。 若要快速创建 Linux VM 进行试用，请参阅[使用门户在 Azure 上创建 Linux VM](https://docs.azure.cn/virtual-machines/linux/quick-create-portal)

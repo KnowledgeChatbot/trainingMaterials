@@ -1,0 +1,1 @@
+{"Questions":["Azure site Recovery 在首次复制到 Azure 时可以进行脱机复制吗？"],"Answer":"Azure site Recovery 不支持在首次复制到 Azure 时进行脱机复制。"}

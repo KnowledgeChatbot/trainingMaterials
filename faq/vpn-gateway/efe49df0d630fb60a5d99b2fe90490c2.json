@@ -1,0 +1,1 @@
+{"Questions":["预计通过站点到站点连接或点到站点连接的吞吐量有多少？"],"Answer":"很难维持 VPN 隧道的准确吞吐量。 IPsec 和 SSTP 是重重加密的 VPN 协议。 本地网络与 Internet 之间的延迟和带宽也限制了吞吐量。 对于仅具有 IKEv2 点到站点 VPN 连接的 VPN 网关，期望可以实现的总吞吐量取决于网关 SKU。 有关吞吐量的详细信息，请参阅[网关 SKU](https://docs.azure.cn/zh-cn/vpn-gateway/vpn-gateway-about-vpngateways#gwsku)。"}

@@ -1,1 +1,0 @@
-能否在 ExpressRoute/S2S VPN 共存配置中对 S2S VPN 使用 BGP？是的。

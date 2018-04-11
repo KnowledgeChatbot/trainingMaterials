@@ -1,1 +1,0 @@
-是否可以将规模集与 Azure OMS (Operations Management Suite) 集成？\n\n可以，可在规模集 VM 上安装 OMS 扩展。 Azure CLI 示例如下：\n\n``\n\n可在 OMS 门户中查找所需的 workspaceId 和 workspaceKey。 在"概述"页面上，单击"设置"磁贴。 单击顶部的"相连的源"选项卡。\n\n注意：如果规模集"upgradePolicy"设置为"手动"，则需要通过对 VM 调用升级将扩展应用到集中的所有 VM。 在 CLI 中，这将为"az vmss update-instances"。\n\n## 故障排除\n\n

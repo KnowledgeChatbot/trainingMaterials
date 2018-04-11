@@ -1,1 +1,0 @@
-是否可以通过代码管理 VNet？是的。 可以在 [Azure Resource Manager](https://msdn.microsoft.com/library/mt163658.aspx) 和[经典（服务管理）](http://go.microsoft.com/fwlink/?LinkId=296833)部署模型中使用适用于 VNet 的 REST API。

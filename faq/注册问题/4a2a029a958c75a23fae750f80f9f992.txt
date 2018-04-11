@@ -1,1 +1,0 @@
-什么是 1 元试用订阅？ 这是由世纪互联运营的 Microsoft Azure 所推出的试用优惠活动，您可通过在线方式注册并付款 1 元人民币，激活您的 1 元试用订阅，获取高达 1,500 元 Azure 服务使用额度，有效期一个月。 *   [1 元试用优惠详情](/offers/ms-mc-azr-44p/)*   [立即申请试用](/pricing/1rmb-trial-full/?form-type=identityauth/)*   [试用注册流程](/pricing/billing/azure-1rmb-trial-application-and-signup/)

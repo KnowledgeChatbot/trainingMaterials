@@ -1,0 +1,1 @@
+{"Questions":["尝试从 Visual Studio 进行部署时，收到了一条错误消息。 如何解决此问题？","从Visual Studio中部署应用出错，该怎么解决？"],"Answer":"如果看到以下消息，则可能使用的是旧版 SDK：\"在资源组 \"YourResourceGroup\" 中部署资源 \"YourResourceName\" 时出错: MissingRegistrationForLocation : 未针对位置\"中国北部\"中的资源类型\"组件\"注册订阅。 若要访问此位置，请重新注册此提供程序。\" 若要解决此错误，请升级到[最新 SDK](https://docs.azure.cn/zh-cn/downloads/)。 如果使用的是最新 SDK 但也收到了此消息，请提交支持请求。\\n"}

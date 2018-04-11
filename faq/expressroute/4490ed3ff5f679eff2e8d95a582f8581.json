@@ -1,0 +1,1 @@
+{"Questions":["能否使用 Azure ExpressRoute 将我的一个 VLAN 扩展到 Azure？","能使用 Azure ExpressRoute 将我的一个 VLAN 扩展到 Azure 吗？"],"Answer":"不能使用 Azure ExpressRoute 将我的一个 VLAN 扩展到 Azure。 不支持将第 2 层连接扩展到 Azure。"}

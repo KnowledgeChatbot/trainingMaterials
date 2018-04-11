@@ -1,0 +1,1 @@
+{"Questions":["如何为应用服务 Web 应用设置连续部署？","如何设置连续部署？","怎么为web应用设置连续部署？"],"Answer":"可从 GitHub 设置连续部署。 [连续部署到应用服务](https://docs.azure.cn/app-service/app-service-continuous-deployment)教程非常有用，它介绍了设置连续部署的方法。"}

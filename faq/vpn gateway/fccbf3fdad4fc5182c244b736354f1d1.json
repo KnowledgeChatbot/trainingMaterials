@@ -1,0 +1,1 @@
+{"Questions":["是否可以使用 VNet 到 VNet 连接 VNet 外的 VM 或云服务？"],"Answer":"否。 VNet 到 VNet 支持连接虚拟网络。 它不支持连接不在虚拟网络中的虚拟机或云服务。"}

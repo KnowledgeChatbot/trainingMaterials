@@ -1,0 +1,1 @@
+{"Questions":["Azure ExpressRoute 对可以播发的路由数是否有限制？","Azure ExpressRoute 对可以播发的路由数有限制吗？","Azure ExpressRoute 对可以播发的路由数有什么限制？"],"Answer":"Azure ExpressRoute 对可以播发的路由数有限制。 对于专用对等互连，最多接受 4000 个路由前缀；对于公共对等互连，各接受 200 个。 如果启用 ExpressRoute 高级功能，可以将专用对等互连的此限制提高为 10,000 个路由。"}

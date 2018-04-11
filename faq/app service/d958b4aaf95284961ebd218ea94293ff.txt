@@ -1,1 +1,0 @@
-如何排查从 GitHub 进行连续部署的问题？若要帮助调查从 GitHub 进行持续部署的问题，请参阅[调查持续部署](https://github.com/projectkudu/kudu/wiki/Investigating-continuous-deployment)

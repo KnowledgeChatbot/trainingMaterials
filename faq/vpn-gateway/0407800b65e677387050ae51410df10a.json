@@ -1,0 +1,1 @@
+{"Questions":["应为 BGP 对等会话添加到本地 VPN 设备什么内容？"],"Answer":"应在指向 IPsec S2S VPN 隧道的 VPN 设备上添加 Azure BGP 对等节点 IP 地址的主机路由。 例如，如果 Azure VPN 对等节点 IP 为\"10.12.255.30\"，则应在 VPN 设备上添加\"10.12.255.30\"的主机路由（包含匹配的 IPsec 隧道接口的下一跃点接口）。## 后续步骤有关为跨界连接和 VNet 到 VNet 连接配置 BGP 的步骤，请参阅[在 Azure VPN 网关上使用 BGP 入门](https://docs.azure.cn/zh-cn/vpn-gateway/vpn-gateway-bgp-resource-manager-ps)。\\n"}

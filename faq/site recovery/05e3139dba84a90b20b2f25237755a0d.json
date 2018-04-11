@@ -1,0 +1,1 @@
+{"Questions":["如果故障转移到 Azure，Azure 如何确保我的数据可恢复？"],"Answer":"Azure 具有复原能力。 Site Recovery 已经能够根据需要故障转移到符合 Azure SLA 的辅助 Azure 数据中心。 发生此情况时，我们确保元数据和保管库都保留在为保管库选择的相同地理区域。"}

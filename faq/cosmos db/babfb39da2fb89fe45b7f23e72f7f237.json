@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB 是否支持复合主键？","Azure Cosmos DB 支持复合主键吗?","Azure Cosmos DB 能够创建复合主键吗？"],"Answer":"Azure Cosmos DB 支持复合主键，可以使用正则语法创建复合分区键。"}

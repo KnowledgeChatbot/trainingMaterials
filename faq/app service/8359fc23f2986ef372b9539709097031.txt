@@ -1,1 +1,0 @@
-无法通过 FTP 传输到我的站点并发布代码。 如何解决此问题？\n\n若要解决 FTP 问题，请执行以下步骤：\n\n1.  验证是否输入了正确的主机名和凭据。 有关不同类型的凭据及其使用方法的详细信息，请参阅 [Deployment credentials](https://github.com/projectkudu/kudu/wiki/Deployment-credentials)（部署凭据）。\n2.  验证防火墙是否阻止了 FTP 端口。 端口应具有以下设置：\n\n    *   FTP 控制连接端口：21\n    *   FTP 数据连接端口：989、10001-10300

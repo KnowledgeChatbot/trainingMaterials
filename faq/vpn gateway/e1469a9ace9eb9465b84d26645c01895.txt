@@ -1,1 +1,0 @@
-VPN 网关是否为虚拟网关？VPN 网关是一种虚拟网络网关。 VPN 网关通过公共连接在虚拟网络和本地位置之间发送加密流量。 还可使用 VPN 网关在虚拟网络之间发送流量。 创建 VPN 网关时，指定"GatewayType"的值为"Vpn"。 有关详细信息，请参阅[关于 VPN 网关配置设置](https://docs.azure.cn/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)。

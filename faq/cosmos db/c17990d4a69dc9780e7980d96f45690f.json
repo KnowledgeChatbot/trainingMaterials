@@ -1,0 +1,1 @@
+{"Questions":["是否可以使用 Azure Cosmos DB 的 Apache Cassandra API 创建多个表？"],"Answer":"是，可以使用 Apache Cassandra API 创建多个表。 这些表中的每一个都被视为用于吞吐量和存储的单元。"}

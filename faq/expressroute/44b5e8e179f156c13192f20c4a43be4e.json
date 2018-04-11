@@ -1,0 +1,1 @@
+{"Questions":["如何将我的虚拟网络连接到 Azure ExpressRoute 线路","如何将虚拟网络连接到 Azure ExpressRoute 线路"],"Answer":"基本步骤如下：*   建立一条 ExpressRoute 线路并让服务提供商启用它。\\n*   客户或者提供商必须配置 BGP 对等互连。\\n*   将虚拟网络连接到 ExpressRoute 线路。有关详细信息，请参阅 [ExpressRoute 线路预配工作流和线路状态](https://docs.azure.cn/expressroute/expressroute-workflows)\\n"}

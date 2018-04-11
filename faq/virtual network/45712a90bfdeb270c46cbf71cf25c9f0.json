@@ -1,0 +1,1 @@
+{"Questions":["是否可以限制入站或出站流量流向与 VNet 连接的资源？"],"Answer":"可以。 可向 VNet 中的单个子网和/或附加到 VNet 的 NIC 应用[网络安全组](https://docs.azure.cn/virtual-network/virtual-networks-nsg)"}

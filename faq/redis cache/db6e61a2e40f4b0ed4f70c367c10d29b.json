@@ -1,0 +1,1 @@
+{"Questions":["应使用哪种 Azure Redis 缓存产品和大小？","如何选择Azure Redis缓存产品？"],"Answer":"每个 Azure Redis 缓存产品/服务提供不同级别的大小、带宽、高可用性和 SLA 选项。具体如何选择请参阅[有关选择缓存产品的注意事项](https://docs.azure.cn/redis-cache/cache-faq#what-redis-cache-offering-and-size-should-i-use)。"}

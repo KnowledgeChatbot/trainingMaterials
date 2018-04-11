@@ -1,0 +1,1 @@
+{"Questions":["是否所有 Azure VPN 网关 SKU 都支持自定义 IPsec/IKE 策略？"],"Answer":"自定义 IPsec/IKE 策略在 Azure VpnGw1、VpnGw2、VpnGw3、标准 VPN 网关和高性能 VPN 网关上受支持。 基本 SKU。"}

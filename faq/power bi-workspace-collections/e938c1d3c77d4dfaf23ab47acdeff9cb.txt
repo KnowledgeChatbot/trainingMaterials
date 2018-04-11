@@ -1,1 +1,0 @@
-应用程序的最终用户是否需要 Power BI 许可证？不可以。 应用程序的最终用户无需单独购买 Power BI 订阅便可访问应用内数据可视化元素。 在 Power BI 工作区集合模型中，会通过 Azure 消耗计量器针对服务向应用程序提供商计费。 请参阅[定价和许可页](https://www.azure.cn/pricing/details/power-bi-embedded)

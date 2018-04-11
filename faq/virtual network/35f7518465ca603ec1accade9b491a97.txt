@@ -1,1 +1,0 @@
-在无需重新部署的情况下，是否可以将 VM 从一个子网移动到 VNet 中的另一个子网？可以。 可在[如何将 VM 或角色实例移到其他子网](https://docs.azure.cn/virtual-network/virtual-networks-move-vm-role-to-subnet)一文中找到详细信息。

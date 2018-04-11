@@ -1,1 +1,0 @@
-能否使用不同服务提供商的 ExpressRoute 线路？可以。 可以使用多个服务提供商的 ExpressRoute 线路。 每条 ExpressRoute 线路只与一个服务提供商相关联。

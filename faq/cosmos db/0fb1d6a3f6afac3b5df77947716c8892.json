@@ -1,0 +1,1 @@
+{"Questions":["是否可以在同一应用程序中同时连接到 Azure 表存储和 Azure Cosmos DB 表 API？","可以在同一应用程序中同时连接到 Azure 表存储和 Azure Cosmos DB 表 API吗？","可以同时使用Azure 表存储和Azure Cosmos DB 表API吗？"],"Answer":"可以在同一应用程序中同时连接到 Azure 表存储和 Azure Cosmos DB 表 API，可以通过创建两个不同的 CloudTableClient 实例进行连接，每个实例都通过连接字符串指向各自的 URI。"}

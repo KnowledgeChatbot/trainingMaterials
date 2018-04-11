@@ -1,1 +1,0 @@
-表 API 的价格是如何计算的？价格取决于分配的 TableThroughput。

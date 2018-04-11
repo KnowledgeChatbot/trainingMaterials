@@ -1,1 +1,0 @@
-什么是 Azure 服务总线？[Azure 服务总线](https://docs.azure.cn/service-bus-messaging/service-bus-messaging-overview)是一个异步消息传送云平台，可允许在分离的系统之间发送数据。 Microsoft 以服务的形式提供此功能，这表示不需要托管任何自有硬件就能使用它。

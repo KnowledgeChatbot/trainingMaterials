@@ -1,0 +1,1 @@
+{"Questions":["SQL 数据库的 SLA 是什么？"],"Answer":"我们保证至少在 99.99% 的时间内客户将能够在其单个或弹性\"基本\"、\"标准\"或\"高级\"版 Azure SQL 数据库与我们的 Internet 网关之间保持连接。 有关详细信息，请参阅 [SLA](https://www.azure.cn/support/legal/sla/)"}

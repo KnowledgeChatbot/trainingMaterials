@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB 表 API 如何配置首选的读取区域以降低分配数据时的延迟？"],"Answer":"请使用 app.config 文件中的 PreferredLocation 键，方便从本地位置读取。 对于现有应用程序，如果设置 LocationMode，Azure Cosmos DB 表 API 会引发错误。 请删除该代码，因为表 API 会从 app.config 文件中选取此信息。 有关详细信息，请参阅 [Azure Cosmos DB 功能](https://docs.azure.cn/cosmos-db/tutorial-develop-table-dotnet#azure-cosmos-db-capabilities)。"}

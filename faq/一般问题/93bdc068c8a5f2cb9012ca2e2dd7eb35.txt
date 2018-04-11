@@ -1,1 +1,0 @@
-Azure 在中国是否支持开源软件？Azure 支持大量开源应用程序、框架和语言，并且数量仍在不断增加。我们清楚开发人员希望使用最适合自身经验、技能和应用程序需求的工具，而我们的目标就是让开发 人员能够随意选择自己需要的工具。关于开放源代码，请参阅[https://github.com/Azure/azure-sdk-for-net/](//github.com/Azure/azure-sdk-for-net)。

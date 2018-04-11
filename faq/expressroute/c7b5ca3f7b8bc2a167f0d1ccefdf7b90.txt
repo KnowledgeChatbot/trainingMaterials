@@ -1,1 +1,0 @@
-能否将一个虚拟网络连接到多条 ExpressRoute 线路？是的。 可将一个虚拟网络最多链接到四条 ExpressRoute 线路。 必须通过四个不同的 [ExpressRoute 位置](https://docs.azure.cn/expressroute/expressroute-locations)订购这些线路。

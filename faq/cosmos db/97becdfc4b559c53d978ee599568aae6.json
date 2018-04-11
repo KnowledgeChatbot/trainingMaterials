@@ -1,0 +1,1 @@
+{"Questions":["是否可以将 Cassandra API 作为键值存储用于数百万或数十亿单独的分区键？","delete, China Azure not support Cassandra API"],"Answer":"Azure Cosmos DB 可以通过对存储进行横向扩展来存储无限的数据。 这与吞吐量无关。 你始终可以仅使用 Cassandra API 通过指定正确的主键/分区键来存储和检索键/值。 这些单独的键获取其自己的逻辑分区并存在于物理分区之上，且不会出现问题。"}

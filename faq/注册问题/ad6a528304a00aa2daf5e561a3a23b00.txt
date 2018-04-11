@@ -1,1 +1,0 @@
-是否支持电汇支付方式？如何具体操作？电汇详情及操作方式，可参考[电汇说明](https://www.azure.cn/pricing/billing/azure-wire-transfer-overview)

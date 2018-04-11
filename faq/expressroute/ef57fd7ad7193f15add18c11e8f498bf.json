@@ -1,0 +1,1 @@
+{"Questions":["Azure ExpressRoute 线路是否存在连接界限？","Azure ExpressRoute 线路存在连接界限吗？","Azure ExpressRoute 线路有连接界限吗？"],"Answer":"Azure ExpressRoute 线路存在连接界限。 [ExpressRoute 合作伙伴和位置](https://docs.azure.cn/expressroute/expressroute-locations)一文概述了 ExpressRoute 线路的连接界限。 一条 ExpressRoute 线路的连接范围限制为单个地缘政治区域。 可以通过启用 ExpressRoute 高级功能，将连接扩展为跨地缘政治区域。"}

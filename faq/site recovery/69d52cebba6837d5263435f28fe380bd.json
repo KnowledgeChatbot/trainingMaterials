@@ -1,0 +1,1 @@
+{"Questions":["可以保护哪些物理服务器？"],"Answer":"可以将运行 Windows 或 Linux 的物理服务器复制到 Azure 或辅助站点。 [了解](https://docs.azure.cn/site-recovery/site-recovery-support-matrix-to-azure#failed-over-azure-vm-requirements)操作系统要求。 无论是将物理服务器复制到 Azure 还是辅助站点，都需要满足相同的要求。请注意，如果本地服务器关闭，物理服务器会在 Azure 中以 VM 的形式运行。 当前不支持故障回复到本地物理服务器。 对于作为物理机进行保护的计算机，只能故障回复到 VMware 虚拟机。\\n"}

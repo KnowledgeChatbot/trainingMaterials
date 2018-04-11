@@ -1,1 +1,0 @@
-应用服务 Web 应用中采用怎样的文件或目录结构？有应用服务应用的文件结构信息，请参阅 [File structure in Azure](https://github.com/projectkudu/kudu/wiki/File-structure-on-azure)（Azure 中的文件结构）。

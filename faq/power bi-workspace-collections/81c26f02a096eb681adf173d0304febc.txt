@@ -1,1 +1,0 @@
-Power BI 工作区集合当前支持哪些数据源？会支持通过直接查询对使用基本凭据的云数据源进行访问。 这意味着目前支持的源有 Azure SQL DB 和 Azure SQL DW 等。 在未来几个月中会添加对其他数据源和访问类型的支持。 有关详细信息，请参阅[连接到数据源](https://docs.azure.cn/power-bi-workspace-collections/connect-datasource)

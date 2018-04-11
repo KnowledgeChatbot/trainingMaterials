@@ -1,1 +1,0 @@
-如何使用表 API 产品/服务？\n\n提供 Azure Cosmos DB 表 API。 首先必须注册 Azure 订阅。 注册以后，即可向 Azure 订阅添加 Azure Cosmos DB 表 API 帐户，然后向帐户添加表。 \n\n可以在 [Azure Cosmos DB 表 API 简介](https://docs.azure.cn/cosmos-db/table-introduction)中找到支持的语言和相关的快速入门。\n

@@ -1,1 +1,0 @@
-资源运行状况执行何种运行状况检查？\n\n资源运行状况根据[资源类型](https://docs.azure.cn/service-health/resource-health-checks-resource-types)执行各种检查。 这些检查旨在针对三类问题： \n\n*   计划外事件，例如主机意外重新启动\n*   计划内事件，例如主机 OS 按计划更新\n*   用户操作触发的事件，例如用户重新启动虚拟机

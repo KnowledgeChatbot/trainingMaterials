@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB 什么是集合？","Azure Cosmos DB 集合是什么？"],"Answer":"集合是一组文档及其关联的 JavaScript 应用程序逻辑。 集合是一个计费实体，其[成本](https://docs.azure.cn/cosmos-db/performance-levels)取决于吞吐量和所用存储。 集合可以跨一个或多个分区或服务器，并且可以通过伸缩处理几乎无限制增长的存储或吞吐量。集合也是 Azure Cosmos DB 的计费实体。 每个集合根据预配的吞吐量和已用的存储空间按小时计费。 有关详细信息，请参阅 [Azure Cosmos DB 定价](https://www.azure.cn/pricing/details/cosmos-db/)\\n"}

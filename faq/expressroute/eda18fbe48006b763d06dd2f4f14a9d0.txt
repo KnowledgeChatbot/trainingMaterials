@@ -1,1 +1,0 @@
-能否将多个虚拟网络链接到一条 ExpressRoute 线路？是的。 在标准 ExpressRoute 线路上最多可以有 10 个虚拟网络连接，在[高级 ExpressRoute 线路](https://docs.azure.cn/expressroute/#expressroute-premium)上最多可以有 100 个。

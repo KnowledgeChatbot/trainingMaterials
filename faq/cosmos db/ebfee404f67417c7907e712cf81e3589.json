@@ -1,0 +1,1 @@
+{"Questions":["Azure Cosmos DB SQL API 的本地实例是否可用？"],"Answer":"Azure Cosmos DB SQL API 的本地实例可以使用。 [Azure Cosmos DB 模拟器](https://docs.azure.cn/cosmos-db/local-emulator)提供对 Cosmos DB 服务的高保真模拟。 它支持与 Azure Cosmos DB 相同的功能，包括对创建和查询 JSON 文档、预配和缩放集合，以及执行存储过程和触发器的支持。 可以使用 Azure Cosmos DB 模拟器开发和测试应用程序，并通过对 Azure Cosmos DB 的连接终结点进行单一配置更改将其部署到多个区域范围的 Azure。"}

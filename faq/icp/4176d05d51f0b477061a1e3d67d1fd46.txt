@@ -1,1 +1,0 @@
-什么后缀的域名不能备案？请登录工信部网站的公共查询,点击域名类型。后缀查不到的域名，不能备案。查询地址:[http://shcainfo.miitbeian.gov.cn/publish/query/indexFirst.action;jsessionid=8EDBAA25F7994B825272C5A50583B88C](http://shcainfo.miitbeian.gov.cn/publish/query/indexFirst.action;jsessionid=8EDBAA25F7994B825272C5A50583B88C)

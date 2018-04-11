@@ -1,1 +1,0 @@
-我的 VNet 中是否可以有公共 IP 地址？可以。 有关公共 IP 地址范围的详细信息，请参阅[虚拟网络中的公共 IP 地址空间](https://docs.azure.cn/virtual-network/virtual-networks-public-ip-within-vnet)一文。 无法从 Internet 直接访问公共 IP 地址。

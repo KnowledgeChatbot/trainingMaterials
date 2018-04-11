@@ -1,0 +1,1 @@
+{"Questions":["是否支持单一 Azure Pack 和单一 VMM 服务器部署？"],"Answer":"是，可将 Hyper-V 虚拟机复制到 Azure，或者在服务提供商站点之间复制。 请注意，如果在服务提供商站点之间复制，将无法使用 Azure Runbook 集成。## 后续步骤*   阅读 [站点恢复概述](https://docs.azure.cn/site-recovery/site-recovery-overview)\\n*   了解 [Site Recovery 体系结构](https://docs.azure.cn/site-recovery/site-recovery-components)"}

@@ -1,0 +1,1 @@
+{"Questions":["如果复制到 Azure，要支付哪些 Azure VM 费用？"],"Answer":"在常规复制期间，数据将复制到异地冗余的 Azure 存储，不需要支付任何 Azure IaaS 虚拟机费用（提供一个明显的优势）。 当故障转移到 Azure 时，Site Recovery 自动创建 Azure IaaS 虚拟机，此后，需要为在 Azure 中使用的计算资源付费。"}

@@ -1,1 +1,0 @@
-DocumentDB API 数据库是否支持无架构数据？是的，DocumentDB API 允许应用程序存储任意 JSON 文档，不需要架构定义或提示。 通过 Azure Cosmos DB SQL 查询接口可立即查询数据。

@@ -1,0 +1,1 @@
+{"Questions":["在同一位置中是否可以有多条 Azure ExpressRoute 线路？","在同一位置中可以有多条 Azure ExpressRoute 线路吗？"],"Answer":"在同一位置中可以有多条 ExpressRoute 线路，它们可以具有相同或不同的服务提供商。 不过，无法从同一位置将多条 ExpressRoute 线路链接到同一虚拟网络。"}

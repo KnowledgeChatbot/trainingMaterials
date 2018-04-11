@@ -1,1 +1,0 @@
-如何在表 API 的 .NET SDK 中替代请求选项的配置设置？有关配置设置的信息，请参阅 [Azure Cosmos DB 功能](https://docs.azure.cn/cosmos-db/tutorial-develop-table-dotnet#azure-cosmos-db-capabilities)。 有些设置是通过 CreateCloudTableClient 方法处理的，还有一些设置是通过客户端应用程序中 appSettings 节的 app.config 处理的。

@@ -1,1 +1,0 @@
-Azure Cosmos DB 是否符合 HIPAA？是的，Azure Cosmos DB 符合 HIPAA。 HIPAA 针对可识别个人身份的健康信息的使用、泄露与保护制定了要求。 有关详细信息，请参阅 [信任中心](https://www.microsoft.com/TrustCenter/Compliance/HIPAA)

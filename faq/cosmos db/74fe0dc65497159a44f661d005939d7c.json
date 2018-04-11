@@ -1,0 +1,1 @@
+{"Questions":["本地 Cassandra 群集是否可与 Azure Cosmos DB 的 Apache Cassandra API 配对？","delete, not  found this question"],"Answer":"目前，Azure Cosmos DB 针对云环境提供了优化的体验，且不产生操作开销。 如果需要配对，请向 [Azure Support](https://www.azure.cn/support/contact/) 发送邮件并在其中提供你的方案的说明。"}

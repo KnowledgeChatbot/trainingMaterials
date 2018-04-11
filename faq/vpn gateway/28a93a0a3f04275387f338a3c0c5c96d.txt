@@ -1,1 +1,0 @@
-能否将 BGP 连接与非 BGP 连接混合用于 Azure VPN 网关？能，可以将 BGP 连接和非 BGP 连接混合用于同一 Azure VPN 网关。

@@ -1,0 +1,1 @@
+{"Questions":["Azure Document DB 有哪些变化？","Azure Document DB 发生了什么变化？"],"Answer":"Azure Document DB 服务现在是 Azure Cosmos DB 服务的一部分，自身以 SQL API 形式呈现。 无需针对 Azure Cosmos DB SQL API 进行任何更改，就能运行针对 Azure Document DB 生成的应用程序。 此外，Azure Cosmos DB 还支持表 API 和 MongoDB API。"}

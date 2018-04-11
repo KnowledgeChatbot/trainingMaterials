@@ -1,1 +1,0 @@
-如果未与 ExpressRoute 运营商合作伙伴之一建立合作伙伴关系，则如何使用 ExpressRoute 连接到 Azure可以将区域运营商和地区以太网连接选择为支持的 Exchange 提供商位置之一。 然后，可以在提供商位置与 Azure 实现对接。 请查看 [ExpressRoute 合作伙伴和位置](https://docs.azure.cn/expressroute/expressroute-locations)的最后一部分，以确定服务提供商是否在任何 Exchange 位置。 然后，可以通过服务提供商订购 ExpressRoute 线路以连接到 Azure。

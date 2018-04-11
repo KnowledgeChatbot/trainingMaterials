@@ -1,0 +1,1 @@
+{"Questions":["什么是 Azure Redis 缓存？","Azure Redis 缓存是什么？"],"Answer":"Azure Redis 缓存以常用的开放源 [Redis 缓存](http://redis.io/)为基础。 这样便可以访问安全、专用的 Redis 缓存，该缓存由 Azure.cn 管理并可从 Azure 内的任何应用程序进行访问。 有关更详细的概述，请参阅 Azure.com 上的 [Azure Redis 缓存](https://docs.azure.cn/zh-cn/redis-cache/)产品页。"}

@@ -1,0 +1,1 @@
+{"Questions":["微软的 Exchange, Lync, SharePoint 支持部署在Azure 云端吗？"],"Answer":"SharePoint 虚拟机模板是可以在 Azure 虚拟机模板上选择的，可以得到微软的官方支持。Exchange Server, Lync Server 用户可以自定义上传，但是无法获得微软官方的支持。"}

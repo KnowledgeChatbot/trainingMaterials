@@ -1,0 +1,1 @@
+{"Questions":["什么是 Azure 中继？","Azure 中继是什么？"],"Answer":"[Azure 中继服务](https://docs.azure.cn/service-bus-relay/relay-what-is-it)可以帮助你以更安全的方式将企业网络中驻留的服务公开给公有云，从而改进混合应用程序的使用。 可以在不打开防火墙连接的情况下公开服务，不需对企业网络基础结构进行干预性更改。"}

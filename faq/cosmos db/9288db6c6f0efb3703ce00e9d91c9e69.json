@@ -1,0 +1,1 @@
+{"Questions":["是否能够为 Azure Cosmos DB 表 API 启用备份？","Azure Cosmos DB 表 API 可以启用备份吗？"],"Answer":"可以为 Azure Cosmos DB 表 API 启用备份，表 API 利用 Azure Cosmos DB 的平台进行备份。 可自动进行备份。 有关详细信息，请参阅[使用 Azure Cosmos DB 进行联机备份和还原](https://docs.azure.cn/cosmos-db/online-backup-and-restore)"}

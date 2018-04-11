@@ -1,0 +1,1 @@
+{"Questions":["如果我不想使用 Azure Cosmos DB 表 API 功能，是否需要将现有 Azure 表存储应用程序迁移到该 SDK？"],"Answer":"如果不想使用 Azure Cosmos DB 表 API 功能，不需要将现有 Azure 表存储应用程序迁移到该 SDK，可以在没有任何干扰的情况下创建和使用现有 Azure 表存储资产。 但是，如果不使用表 API，则无法从自动索引、其他一致性选项或全局分发中受益。"}

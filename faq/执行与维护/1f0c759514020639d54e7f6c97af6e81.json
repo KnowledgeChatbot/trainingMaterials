@@ -1,0 +1,1 @@
+{"Questions":["我可以在 Azure 选择 Oracle 虚拟机吗？","delete"],"Answer":"基于 Windows 平台的 Oracle 软件镜像将会很快发布，用户可以选择\"包含授权\"的镜像，Oracle 授权不单独收费，由 Azure 统一计费。21V 提供 Azure 平台的 Oracle 服务，但是这会额外增加客户成本。"}

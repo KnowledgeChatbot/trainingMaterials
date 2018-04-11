@@ -1,1 +1,0 @@
-通过 ExpressRoute 连接到 Azure 存储需要执行哪些操作？必须建立 ExpressRoute 线路并为公共对等互连配置路由。

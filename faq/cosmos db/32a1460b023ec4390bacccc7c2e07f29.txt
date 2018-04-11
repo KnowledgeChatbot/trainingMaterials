@@ -1,1 +1,0 @@
-何时应更改表 API 的 TableThroughput？\n\n应在符合以下某个条件时，更改 TableThroughput：\n\n*   要对数据执行提取、转换和加载 (ETL) 操作，或者需在短时间内上传大量数据。 \n*   需要来自后端容器的更多吞吐量。 例如，发现已用吞吐量超过预配吞吐量，且吞吐量已达到限制。 有关详细信息，请参阅[为 Azure Cosmos DB 容器设置吞吐量](https://docs.azure.cn/cosmos-db/set-throughput)。

@@ -1,1 +1,0 @@
-在 VNet 中可以使用哪些协议？可以在 VNet 中使用 TCP、UDP 和 ICMP TCP/IP 协议。 VNet 中会阻止多播、广播、在 IP 里面封装 IP 的数据包以及通用路由封装 (GRE) 数据包。

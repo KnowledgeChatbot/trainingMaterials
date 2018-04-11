@@ -1,1 +1,0 @@
-在已预配了一个数据库，并且已安装了分片映射管理器的情况下，应如何将此新数据库注册为分片？请参阅[使用弹性数据库客户端库将分片添加到应用程序](https://docs.azure.cn/sql-database/sql-database-elastic-scale-add-a-shard)。

@@ -1,0 +1,1 @@
+{"Questions":[" 是否可以连接 PowerBI？"],"Answer":"SQL 数据仓库可以连接 PowerBI。 尽管 PowerBI 支持使用 SQL DW 进行直接查询，但不适合大量用户或实时数据。 若要将 PowerBI 用于生产用途，建议基于 Azure Analysis Services 或 Analysis Service IaaS 使用 PowerBI。 "}

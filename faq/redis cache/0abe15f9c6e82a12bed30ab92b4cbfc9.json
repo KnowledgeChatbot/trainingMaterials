@@ -1,0 +1,1 @@
+{"Questions":["应该将 Azure Redis 缓存放在哪个区域？"],"Answer":"为了获得最佳性能并最大程度地降低延迟，请在缓存客户端应用程序所在的区域放置 Azure Redis 缓存。"}

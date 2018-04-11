@@ -1,1 +1,0 @@
-是否有任何计算机名称要求？可以。 计算机名称的最大长度为 15 个字符。 有关命名资源的详细信息，请参阅[命名约定规则和限制](https://docs.microsoft.com/azure/architecture/best-practices/naming-conventions#naming-rules-and-restrictions?toc=/virtual-machines/windows/toc.json)

@@ -1,1 +1,0 @@
-是否需要在密钥保管库中将证书包装在 JSON 对象中？\n\n在虚拟机规模集和 VM 中，必须在 JSON 对象中包装证书。 \n\n我们还支持 application/x-pkcs12 内容类型。 有关使用 application/x-pkcs12 的说明，请参阅 [Azure Key Vault 中的 PFX 证书](http://www.rahulpnath.com/blog/pfx-certificate-in-azure-key-vault/)。\n\n我们目前不支持 .cer 文件。 要使用.cer 文件，请将其导出到.pfx 容器中。\n\n## 符合性和安全性\n\n

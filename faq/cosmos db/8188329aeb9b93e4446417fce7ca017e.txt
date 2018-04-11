@@ -1,1 +1,0 @@
-是否可以提高或降低表 API 表的吞吐量？是的，可以使用 Azure Cosmos DB 门户的缩放窗格来缩放吞吐量。 有关详细信息，请参阅[设置吞吐量](https://docs.azure.cn/cosmos-db/set-throughput)

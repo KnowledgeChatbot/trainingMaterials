@@ -1,0 +1,1 @@
+{"Questions":["要使用哪些工具创建 VNet？"],"Answer":"可以使用以下工具创建或配置 VNet：*   Azure 门户（用于经典 VNet 和 Resource Manager VNet）。\\n*   网络配置文件（netcfg - 仅用于经典 VNet）。 请参阅[使用网络配置文件配置 VNet](https://docs.azure.cn/virtual-network/virtual-networks-using-network-configuration-file) 一文。\\n*   PowerShell（用于经典 VNet 和 Resource Manager VNet）。\\n*   Azure CLI（用于经典 VNet 和 Resource Manager VNet）。"}

@@ -1,0 +1,1 @@
+{"Questions":["能否将规模集与加速网络结合使用？"],"Answer":"是的。 若要使用加速网络，请在规模集的 networkInterfaceConfigurations 设置中将 enableAcceleratedNetworking 设置为 true。 例如\"networkProfile\": { \"networkInterfaceConfigurations\": [ { \"name\": \"niconfig1\", \"properties\": { \"primary\": true, \"enableAcceleratedNetworking\" : true, \"ipConfigurations\": [ ] } } ] } } ] } \\n"}

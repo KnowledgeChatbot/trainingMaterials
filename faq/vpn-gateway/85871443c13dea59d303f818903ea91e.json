@@ -1,0 +1,1 @@
+{"Questions":["是否有任何其他不能使用的 ASN？"],"Answer":"是的。以下 ASN 是 [IANA 保留](http://www.iana.org/assignments/iana-as-numbers-special-registry/iana-as-numbers-special-registry.xhtml)的，不能在 Azure VPN 网关上配置：23456、64496-64511、65535-65551 和 429496729\\n"}

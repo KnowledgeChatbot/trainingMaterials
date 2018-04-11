@@ -1,0 +1,1 @@
+{"Questions":["是否可以使用 VNet 将 VLAN 引入 Azure 中？"],"Answer":"否。 VNet 是第 3 层重叠。 Azure 不支持任何第 2 层语义。"}

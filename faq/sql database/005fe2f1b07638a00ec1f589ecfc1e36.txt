@@ -1,1 +1,0 @@
-何时应该使用单一数据库或弹性数据库？一般而言，弹性池针对典型的[软件即服务 (SaaS) 应用程序模式](https://docs.azure.cn/sql-database/sql-database-design-patterns-multi-tenancy-saas-applications)而设计，该模式中每个客户或租户有一个数据库。 购买单独的数据库并超量设置以满足每个数据库的可变和峰值需求通常不够经济高效。 使用池可以管理池的整体性能，数据库将自动扩展和收缩。 如果 Azure 的智能引擎发现了担保数据库的使用模式，则建议使用池。 有关详细信息，请参阅[弹性池指南](https://docs.azure.cn/sql-database/sql-database-elastic-pool)。

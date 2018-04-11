@@ -1,1 +1,0 @@
-创建 VM 时，密码有什么要求？\n\n密码的长度必须为 12 到 123 个字符，并满足以下 4 个复杂性要求中的 3 个要求：\n\n*   具有小写字符\n*   具有大写字符\n*   具有数字\n*   具有特殊字符（正则表达式匹配 [\W_]）\n\n不允许使用以下密码：\n\nabc@123 P@$$w0rd P@ssw0rd P@ssword123 Pa$$word pass@word1 Password! Password1 Password22 iloveyou! \n

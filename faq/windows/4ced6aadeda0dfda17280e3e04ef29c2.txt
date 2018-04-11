@@ -1,1 +1,0 @@
-可否调整 OS 磁盘的大小？可以。 有关说明，请参阅 [How to expand the OS drive of a Virtual Machine in an Azure Resource Group](https://docs.azure.cn/virtual-machines/windows/expand-os-disk?toc=/virtual-machines/windows/toc.json)（如何扩展 Azure 资源组中虚拟机的 OS 驱动器）。

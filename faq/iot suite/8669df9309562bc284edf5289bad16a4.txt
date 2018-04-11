@@ -1,1 +1,0 @@
-在订阅中可以预配多少个 Azure Cosmos DB 实例？50 个。 可以创建 [Azure 支持票证](https://portal.azure.cn/#blade/Microsoft_Azure_Support/HelpAndSupportBlade)以提高此限制，但在默认情况下，对每个订阅只能预配 50 个 Cosmos DB 实例。

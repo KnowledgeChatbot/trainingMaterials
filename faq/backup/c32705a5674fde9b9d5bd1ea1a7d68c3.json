@@ -1,0 +1,1 @@
+{"Questions":["恢复服务保管库是支持基于经典 VM 还是支持基于 Resource Manager 的 VM？"],"Answer":"恢复服务保管库同时支持这两种模型。 可以将经典 VM（在经典管理门户中创建）或 Resource Manager VM（在 Azure 门户中创建）备份到恢复服务保管库。"}

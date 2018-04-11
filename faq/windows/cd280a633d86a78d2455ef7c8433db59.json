@@ -1,0 +1,1 @@
+{"Questions":["可否复制或克隆现有的 Azure VM？"],"Answer":"是的。 借助托管映像，可创建虚拟机的映像，然后使用该映像生成多个新的 VM。 有关说明，请参阅[创建 VM 的自定义映像](https://docs.azure.cn/virtual-machines/windows/tutorial-custom-images)"}

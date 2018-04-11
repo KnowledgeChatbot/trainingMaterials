@@ -1,1 +1,0 @@
-如何将现有 Azure 表存储应用程序迁移到此服务？支持使用 [AzCopy](https://docs.azure.cn/zh-cn/storage/common/storage-use-azcopy) 和 [Azure Cosmos DB 数据迁移工具](https://docs.azure.cn/cosmos-db/import-data)

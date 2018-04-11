@@ -1,1 +1,0 @@
-ExpressRoute 是否提供服务级别协议 (SLA)？\n\n有关信息，请参阅 [ExpressRoute SLA](https://www.azure.cn/support/legal/sla/) 页。\n\n## 支持的服务\n\nExpressRoute 支持 [两种路由域](https://docs.azure.cn/expressroute/expressroute-circuit-peerings) ，适用于各种类型的服务。\n

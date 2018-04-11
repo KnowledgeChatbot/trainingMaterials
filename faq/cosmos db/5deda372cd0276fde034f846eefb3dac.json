@@ -1,0 +1,1 @@
+{"Questions":["Cassandra API 是否提供完整备份？","delete, not found this question"],"Answer":"Azure Cosmos DB 的所有 API 目前都提供间隔四小时的两个免费完整备份。 这可确保你不需要设置备份计划等等。如果希望修改保留期和频率，请向 [Azure Support](https://www.azure.cn/support/contact/) 发送邮件或提交支持案例。 [Azure Cosmos DB 的自动联机备份和还原](https://docs.azure.cn/cosmos-db/online-backup-and-restore)一文中提供了有关备份功能的信息。"}

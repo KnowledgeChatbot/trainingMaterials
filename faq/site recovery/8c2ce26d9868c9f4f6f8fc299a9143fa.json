@@ -1,0 +1,1 @@
+{"Questions":["站点恢复是否将复制数据加密？"],"Answer":"在本地站点之间复制虚拟机和物理服务器时，支持传输中加密。 将虚拟机和物理服务器复制到 Azure 时，同时支持传输中加密和[静态加密（Azure 中）](https://docs.azure.cn/zh-cn/storage/storage-service-encryption)。## 复制"}

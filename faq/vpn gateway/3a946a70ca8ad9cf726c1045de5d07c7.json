@@ -1,0 +1,1 @@
+{"Questions":["VNet 到 VNet 流量是否会通过 Internet？"],"Answer":"否。 VNet 到 VNet 流量会流经 Azure 主干，而非 Internet。"}

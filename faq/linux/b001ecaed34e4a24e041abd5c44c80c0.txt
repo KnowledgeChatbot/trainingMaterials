@@ -1,1 +1,0 @@
-我是否可以复制或克隆现有的 Azure VM？是的。 有关说明，请参阅[如何在 Resource Manager 部署模型中创建 Linux 虚拟机的副本](https://docs.azure.cn/virtual-machines/linux/copy-vm?toc=/virtual-machines/linux/toc.json)

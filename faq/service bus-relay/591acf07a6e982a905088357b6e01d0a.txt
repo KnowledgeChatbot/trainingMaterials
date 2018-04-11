@@ -1,1 +1,0 @@
-服务总线中继服务发生了什么情况？\n\n以前命名的服务总线中继服务现在称为 WCF 中继。 你可以继续照常使用此服务。 混合连接功能是一种更新版的服务，从 Azure BizTalk 服务移植过来。 将继续支持 WCF 中继和混合连接。\n\n## 定价\n\n本部分回答了一些关于中继定价结构的常见问题。 若要了解一般的 Azure 定价信息，还可以参阅 [Azure 支持常见问题](http://go.microsoft.com/fwlink/?LinkID=185083)。 有关中继定价的完整信息，请参阅[服务总线定价详细信息](https://www.azure.cn/pricing/details/messaging/)。\n

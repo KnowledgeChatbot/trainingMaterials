@@ -1,1 +1,0 @@
-有关网关类型、要求和吞吐量的详细信息\n\n[关于 VPN 网关配置设置](https://docs.azure.cn/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)。\n\n## 站点到站点连接和 VPN 设备\n\n

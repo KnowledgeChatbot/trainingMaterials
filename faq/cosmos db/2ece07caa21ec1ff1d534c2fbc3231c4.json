@@ -1,0 +1,1 @@
+{"Questions":["PowerShell 或 Azure CLI 是否适用于Azure Cosmos DB 表 API？","Azure Cosmos DB 表 API 支持 PowerShell 或 Azure CLI 吗？","Azure Cosmos DB 表 API 支持 PowerShell 吗？","Azure Cosmos DB 表 API 支持 Azure CLI 吗？"],"Answer":"Azure Cosmos DB 支持 [PowerShell](https://docs.azure.cn/cosmos-db/table-powershell)。 目前不支持 Azure CLI。"}

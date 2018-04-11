@@ -1,0 +1,1 @@
+{"Questions":["Power BI 工作区集合与 Power BI 服务有什么关系？"],"Answer":"Power BI 工作区集合和 Power BI 服务是单独的产品/服务。 Power BI 工作区集合采取基于消费的计费模式，通过 Azure 门户部署并且旨在使 ISV 能够将数据可视化元素嵌入到应用程序中，供其客户使用。 Power BI 服务通过 O365 门户进行计费和部署，是一个独立通用的 BI 产品/服务，主要供企业内部使用。 若要了解 Power BI 服务的详细信息，请参阅 [www.powerbi.com](https://powerbi.microsoft.com/)"}

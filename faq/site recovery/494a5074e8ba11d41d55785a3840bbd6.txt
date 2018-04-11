@@ -1,1 +1,0 @@
-Site Recovery 的功能是什么？Site Recovery 可通过协调和自动运行区域之间的 Azure VM 复制、本地虚拟机与物理服务器到 Azure 的复制以及本地计算机到辅助数据中心的复制，来帮助实现业务连续性与灾难恢复 (BCDR) 策略。

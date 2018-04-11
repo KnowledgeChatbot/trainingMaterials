@@ -1,0 +1,1 @@
+{"Questions":["是否也可在 VNet 到 VNet 连接上使用自定义策略？"],"Answer":"是的。可以在 IPsec 跨界连接或 VNet 到 VNet 连接上应用自定义策略。"}

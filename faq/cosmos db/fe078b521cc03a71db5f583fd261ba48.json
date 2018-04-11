@@ -1,0 +1,1 @@
+{"Questions":["连接到Azure Cosmos DB 表 API 需要使用哪个连接字符串？","怎么获取Azure Cosmos DB 表API 连接字符串？"],"Answer":"连接字符串为：“DefaultEndpointsProtocol=https;AccountName=<AccountNamefromCosmos DB>;AccountKey=<FromKeysPaneofCosmosDB>;TableEndpoint=https://<AccountName>.documents.azure.cn”  \n可以通过 Azure 门户中的\"连接字符串\"页获取连接字符串。"}

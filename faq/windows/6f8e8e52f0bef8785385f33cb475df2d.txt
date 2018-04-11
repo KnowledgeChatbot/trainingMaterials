@@ -1,1 +1,0 @@
-如何更改临时磁盘的驱动器号？可以通过移动页面文件和重新分配驱动器号来更改驱动器号，但需确保按特定顺序执行这些步骤。 有关说明，请参阅[更改 Windows 临时磁盘的驱动器号](https://docs.azure.cn/virtual-machines/windows/change-drive-letter?toc=/virtual-machines/windows/classic/toc.json)

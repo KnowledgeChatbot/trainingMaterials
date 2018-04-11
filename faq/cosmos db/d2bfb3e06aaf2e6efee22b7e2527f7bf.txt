@@ -1,1 +1,0 @@
-如何理解表 API 中的一致性级别？\n\nAzure Cosmos DB 在一致性、可用性和延迟之间提供合理的平衡。 Azure Cosmos DB 为表 API 开发人员提供五个一致性级别，因此可以在表级别选择合适的一致性模型，并在查询数据时发出相应的请求。 客户端可以在连接时指定一致性级别。 可以通过 CreateCloudTableClient 的 consistencyLevel 参数更改级别。 \n\n如果将"有限过时"一致性设置为默认值，表 API 可通过"读取自己写入的数据"提供低延迟的读取。 有关详细信息，请参阅[一致性级别](https://docs.azure.cn/cosmos-db/consistency-levels)。 \n\nAzure 表存储默认在区域中提供"强"一致性，在辅助位置提供"最终"一致性。 \n

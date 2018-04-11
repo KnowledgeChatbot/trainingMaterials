@@ -1,1 +1,0 @@
-此服务是否在全球提供？目前，大多数数据中心内都提供 Power BI 工作区集合服务。 始终可以 [在此处](https://azure.microsoft.com/status/)检查最新可用性。

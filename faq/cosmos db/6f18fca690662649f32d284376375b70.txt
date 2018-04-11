@@ -1,1 +1,0 @@
-Cassandra 表是否支持生存时间 (TTL)？是的，支持 TTL。

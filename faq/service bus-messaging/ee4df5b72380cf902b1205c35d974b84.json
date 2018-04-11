@@ -1,0 +1,1 @@
+{"Questions":["什么是 Azure 服务总线队列？","Azure 服务总线队列是什么？"],"Answer":"[Azure 服务总线队列](https://docs.azure.cn/service-bus-messaging/service-bus-queues-topics-subscriptions)是用于存储消息的实体。 有多个应用程序，或者有多个需要彼此通信的分布式应用程序部分时，队列特别有用。 队列和发行中心的相似之处在于，两者都会接收多个产品（消息），再从该处送出。"}

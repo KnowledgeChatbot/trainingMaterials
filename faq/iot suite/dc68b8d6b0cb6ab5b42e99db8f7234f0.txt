@@ -1,1 +1,0 @@
-如何删除 AAD 租户？请参阅 Eric Golpe 的博客文章 [删除 Azure AD 租户的演练](http://blogs.msdn.com/b/ericgolpe/archive/2015/04/30/walkthrough-of-deleting-an-azure-ad-tenant.aspx)。
