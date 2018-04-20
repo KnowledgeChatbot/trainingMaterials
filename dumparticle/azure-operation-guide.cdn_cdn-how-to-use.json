@@ -1,0 +1,1 @@
+{"Title":"How to use CDN - Azure feature guide","Description":"Learn how to use the Azure Content Delivery Network (CDN) to deliver high-bandwidth content by caching blobs and static content.","Content":"\r [!INCLUDE [cdn](./includes/cdn.md)]\r \r   [cdn]: ./includes/cdn.md"}

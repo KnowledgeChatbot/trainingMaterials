@@ -1,0 +1,1 @@
+{"Title":"用于管理 Azure 资源的常用 Azure CLI 2.0 命令","Description":"了解用于开始管理 Azure Resource Manager 模式的 VM 的一些常用 Azure CLI 2.0 命令","Content":"# <a name=\"common-azure-cli-20-commands-for-managing-azure-resources\"></a>用于管理 Azure 资源的常用 Azure CLI 2.0 命令\r [!INCLUDE [virtual-machines-common-cli-manage](../../../includes/virtual-machines-common-cli-manage.md)]\r "}

@@ -1,0 +1,1 @@
+{"Title":"在 Azure 资源管理器模板中将托管磁盘用于 Linux VM","Description":"详细介绍如何在 Azure 资源管理器模板中将托管磁盘用于 Linux VM","Content":"[!INCLUDE [virtual-machines-using-managed-disks-template-deployments](../../../includes/virtual-machines-using-managed-disks-template-deployments.md)]"}

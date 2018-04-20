@@ -1,0 +1,1 @@
+{"Title":"将基础结构自动化工具用于 Azure 中的 Linux VM","Description":"了解如何使用 Ansible、Chef、Puppet、Terraform 和 Packer 等基础结构自动化工具来创建和管理 Azure 中的 Linux 虚拟机","Content":"[!INCLUDE [virtual-machines-common-infrastructure-automation](../../../includes/virtual-machines-common-infrastructure-automation.md)]\r \r <!--Update_Description: new articles on infrastructure automation -->"}

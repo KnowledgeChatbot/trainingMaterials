@@ -1,0 +1,1 @@
+{"Title":"使用增量快照备份和恢复非托管的 Azure Linux VM 磁盘","Description":"创建自定义解决方案，以使用增量快照备份和恢复 Azure Linux 虚拟机磁盘。","Content":"[!INCLUDE [virtual-machines-incremental-snapshots](../../../includes/virtual-machines-incremental-snapshots.md)]"}

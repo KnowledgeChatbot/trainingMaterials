@@ -1,0 +1,1 @@
+{"Title":"Microsoft Azure 服务总线配额和限制","Description":"查找 Azure 服务总线的限制和配额。","Content":"# <a name=\"service-bus-quotas\"></a>服务总线配额\r \r 本部分列出了 Azure 服务总线消息传送的基本配额和限制阈值。\r \r ## <a name=\"messaging-quotas\"></a>消息传送配额\r \r [!INCLUDE [service-bus-quotas-table](../../includes/service-bus-quotas-table.md)]\r \r <!--Update_Description:update meta properties only-->"}
